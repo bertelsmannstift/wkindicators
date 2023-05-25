@@ -11,18 +11,6 @@ Im Wegweiser Kommune reichern wir Daten aus der Amtlichen Statistik mit spannend
 
 Während des Datendialogs möchten wir wenig reden und viel coden: Wir möchten mit den Freiwilligen von CorrelAid e.V. einen Prototyp entwickeln. Unsere Idee ist, die Indikatoren der wohnungsnahen Grundversorgung (kommunale Infrastruktur) weiterzuentwickeln, indem Daten von Kartendienstleistern als Grundlage für die Indikatorberechnung genutzt werden. In Frage kommen die Google Places API und die Open Street Map API, wobei letzteres lizenzrechtlich einfacher einzubinden wäre, ggf. aber auf Grund fehlender Einträge nicht hinreichend valide ist. Der Prototyp soll sich zunächst für die Abfrage von Daten zu Apotheken gebaut werden, perspektivisch jedoch auf andere Einrichtungen (Schulen, Bibliotheken, Arztpraxen, etc.) ausgeweitet werden.  
 
--	Path 1: Google Maps
-o	Abfrage der Daten zu Apotheken über Google Places API 
-o	Abgleich der Daten mit Apothekenregister und Beurteilung Datenvalidität
-o	Zuordnung der Apotheken zur Geometrie des Wegweiser Kommunen Portals (Apotheke zu Kommune)
-o	Berechnung von Indikatoren „Anzahl der Apotheken in Kommune“, „Entfernung der nächsten Apotheke zum Ortskern“, etc.
-
--	Path 2: Open Street Maps
-o	Abfrage der Daten zu Apotheken über Open Street Maps API
-o	Abgleich der Daten mit Apothekenregister und Beurteilung Datenvalidität
-o	Zuordnung der Apotheken zur Geometrie des Wegweiser Kommunen Portals (Apotheke zu Kommune)
-o	Berechnung von Indikatoren „Anzahl der Apotheken in Kommune“, „Entfernung der nächsten Apotheke zum Ortskern“, etc.
- 
 **3.	Habt ihr dafür bereits Daten zur Verfügung?**
 Uns liegt eine Liste der Kommunen mit über 5.000 Einwohnern, die auf dem Wegweiser Kommune dargestellt werden, vor. Zudem verfügen wir über Geometriedaten für das geographische Mapping und wird für das Projekt das Apothekenregister für den Abgleich angefragt.
 
@@ -58,6 +46,7 @@ o	Path 2: Open Street Maps
  - Abgleich der Daten mit Apothekenregister und Beurteilung Datenvalidität
  
 o	Zuordnung der Apotheken zur Geometrie des Wegweiser Kommunen Portals (Apotheke zu Kommune)
+
 o	Berechnung von Indikatoren „Anzahl der Apotheken in Kommune“, „Entfernung der nächsten Apotheke zum Ortskern“, etc.
 
 ## Mögliche Challenges
