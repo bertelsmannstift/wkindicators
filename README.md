@@ -62,4 +62,5 @@ o	Zuordnung der Apotheken zur Geometrie des Wegweiser Kommunen Portals (Apotheke
 o	Berechnung von Indikatoren „Anzahl der Apotheken in Kommune“, „Entfernung der nächsten Apotheke zum Ortskern“, etc.
 
 ## Mögliche Challenges
-- 
+- Matching Issues
+- Datenqualität und -Vollständigkeit
