@@ -4,9 +4,11 @@
 Name des Teams: Daten für die Gesellschaft
 
 **1.	Was ist das Ziel eurer Forschung? Oder: Was ist das gesellschaftliche Problem, was ihr mit eurem Projekt bearbeitet? Was ist die Wirkung, die ihr erreichen wollt?**
+
 Im Wegweiser Kommune reichern wir Daten aus der Amtlichen Statistik mit spannenden Indikatoren aus anderen Datenquellen an und bieten sie visuell in Dashboards und Berichten aufbereitet auf Gemeindeebene als Hilfestellung zur Planung kommunaler Räume an.
  
 **2.	Was versprecht ihr euch von der Diskussion im Datendialog?**
+
 Während des Datendialogs möchten wir wenig reden und viel coden: Wir möchten mit den Freiwilligen von CorrelAid e.V. einen Prototyp entwickeln. Unsere Idee ist, die Indikatoren der wohnungsnahen Grundversorgung (kommunale Infrastruktur) weiterzuentwickeln, indem Daten von Kartendienstleistern als Grundlage für die Indikatorberechnung genutzt werden. In Frage kommen die Google Places API und die Open Street Map API, wobei letzteres lizenzrechtlich einfacher einzubinden wäre, ggf. aber auf Grund fehlender Einträge nicht hinreichend valide ist. Der Prototyp soll sich zunächst für die Abfrage von Daten zu Apotheken gebaut werden, perspektivisch jedoch auf andere Einrichtungen (Schulen, Bibliotheken, Arztpraxen, etc.) ausgeweitet werden.  
 
 -	Path 1: Google Maps
@@ -45,12 +47,19 @@ Uns liegt eine Liste der Kommunen mit über 5.000 Einwohnern, die auf dem Wegwei
 
 ## Product Backlog Items
 
-### Item 1: Abfrage der Kommunendaten aus dem Wegweiser Kommune
+o	Abfrage der Daten zu Kommunen über Wegweiser Kommune API
 
-### Item 2: Abfrage der Standortdaten von Apotheken mit der Google Maps API
+-	Path 1: Google Maps
+o	Abfrage der Daten zu Apotheken über Google Places API 
+o	Abgleich der Daten mit Apothekenregister und Beurteilung Datenvalidität
+o	Zuordnung der Apotheken zur Geometrie des Wegweiser Kommunen Portals (Apotheke zu Kommune)
+o	Berechnung von Indikatoren „Anzahl der Apotheken in Kommune“, „Entfernung der nächsten Apotheke zum Ortskern“, etc.
 
-### Item 3: Abfrage der Standortdaten von Apotheken mit der Open Street Maps API
+-	Path 2: Open Street Maps
+o	Abfrage der Daten zu Apotheken über Open Street Maps API
+o	Abgleich der Daten mit Apothekenregister und Beurteilung Datenvalidität
+o	Zuordnung der Apotheken zur Geometrie des Wegweiser Kommunen Portals (Apotheke zu Kommune)
+o	Berechnung von Indikatoren „Anzahl der Apotheken in Kommune“, „Entfernung der nächsten Apotheke zum Ortskern“, etc.
 
-### Item 4: Mapping der Standortdaten der Apotheken auf Geometrie der Kommunen im Wegweiser Kommune
-
-### Item 5: Prüfung der Datenqualität mit Stichprobe
+## Mögliche Challenges
+- 
