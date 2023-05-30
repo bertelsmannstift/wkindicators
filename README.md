@@ -56,7 +56,7 @@ o	Abgleich der Daten mit Apothekenregister und Beurteilung Datenvalidität
 
 o	Optional: Berechnung des Indikators „Entfernung der nächsten Apotheke zum Ortskern“ (Zentrum des Apothekenpolygons mit den Geometriedaten der Gemeinden)
 
-Ausblick: Berechnung des Indikators "durchschnittliche Entfernung zur nächsten Apotheke" (hierzu benötigt man Daten zur Bevölkerungsdichte)
+Ausblick: Berechnung des Indikators "durchschnittliche Entfernung zur nächsten Apotheke" (hierzu benötigt man Daten zur Bevölkerungsdichte, beispielsweise verfügbar über das [BKG](https://mis.bkg.bund.de/trefferanzeige?docuuid=02B4A03F-A187-484E-B6B6-7C0FF1BC7270), die statt Melderegisterdaten allerdings selbst die Prognosedaten von Nexiga GmbH und Infas nutzen)
 
 ## Mögliche Challenges
 - Matching Issues
