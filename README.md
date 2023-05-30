@@ -38,17 +38,20 @@ Uns liegt eine Liste der Kommunen mit über 5.000 Einwohnern, die auf dem Wegwei
 
 o	Abfrage der Daten zu Kommunen über Wegweiser Kommune API
 
-o	Path 1: Google Maps
+o	Path 1: Google Maps (Back-Up)
  - Abfrage der Daten zu Apotheken über Google Places API 
  - Abgleich der Daten mit Apothekenregister und Beurteilung Datenvalidität
 
-o	Path 2: Open Street Maps
+o	Path 2: Open Street Maps (Präferenz)
  - Abfrage der Daten zu Apotheken über Open Street Maps API
  - Abgleich der Daten mit Apothekenregister und Beurteilung Datenvalidität
  
 o	Zuordnung der Apotheken zur Geometrie des Wegweiser Kommunen Portals (Apotheke zu Kommune)
 
-o	Berechnung von Indikatoren „Anzahl der Apotheken in Kommune“, „Entfernung der nächsten Apotheke zum Ortskern“, etc.
+o	Berechnung von Indikator „Anzahl der Apotheken in Kommune“
+
+o Optional für Profis: Berechnung des Indikators „Entfernung der nächsten Apotheke zum Ortskern“, Berechnung des Indikators "durchschnittliche Entfernung zur nächsten Apotheke" (hierzu benötigt man Daten zur Bevölkerungsdichte), Automatisierung der Abfrageprozesse (insb. der Overpass Turbo API Query)
+
 
 ## Mögliche Challenges
 - Matching Issues
