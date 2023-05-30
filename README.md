@@ -31,6 +31,7 @@ Uns liegt eine Liste der Kommunen mit über 5.000 Einwohnern, die auf dem Wegwei
 ## Daten
 - Liste der Kommunen auf dem Wegweiser Kommune
 - [Geometrie zu Kommunen](https://opendata-esri-de.opendata.arcgis.com/datasets/esri-de-content::vg250-gemeindegrenzen/about) (! Originäre Shapefiles nicht lizenziert für die Herausgabe!)
+- Zuordnung von Postleitzahlen zu Gemeinden
 - Apothekenregisterdaten (Stichprobe mit 100 Kommunen)
 
 ## Product Backlog Items
