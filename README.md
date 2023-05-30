@@ -35,23 +35,28 @@ Uns liegt eine Liste der Kommunen mit über 5.000 Einwohnern, die auf dem Wegwei
 - Apothekenregisterdaten (Stichprobe mit 100 Kommunen)
 
 ## Product Backlog Items
+Arbeitspaket 1: Für Datenanalyst:innen mit Affinität zu APIs
 
-o	Abfrage der Daten zu Kommunen über Wegweiser Kommune API
+o	Automatisierte Abfrage der Daten zu Kommunen über Wegweiser Kommune API
 
 o	Path 1: Google Maps (Back-Up)
- - Abfrage der Daten zu Apotheken über Google Places API 
- - Abgleich der Daten mit Apothekenregister und Beurteilung Datenvalidität
+ - Automatisierte Abfrage der Daten zu Apotheken über Google Places API 
 
 o	Path 2: Open Street Maps (Präferenz)
- - Abfrage der Daten zu Apotheken über Open Street Maps API
- - Abgleich der Daten mit Apothekenregister und Beurteilung Datenvalidität
+ - Automatisierte Abfrage der Daten zu Apotheken über Open Street Maps API
  
-o	Zuordnung der Apotheken zur Geometrie des Wegweiser Kommunen Portals (Apotheke zu Kommune)
+o	Optional: Proof of Concept und Set-up für GitHub Actions (ins. .yml-File in einem festzulegenden Turnus, min. 2x jährlich)
+
+Arbeitspaket 2: Für Datenanalyst:innen mit Affinität zur Indikatorberechnung 
+o	Zuordnung der Apotheken zu Kommunen (low-hanging fruit über PLZ)
 
 o	Berechnung von Indikator „Anzahl der Apotheken in Kommune“
 
-o Optional für Profis: Berechnung des Indikators „Entfernung der nächsten Apotheke zum Ortskern“, Berechnung des Indikators "durchschnittliche Entfernung zur nächsten Apotheke" (hierzu benötigt man Daten zur Bevölkerungsdichte), Automatisierung der Abfrageprozesse (insb. der Overpass Turbo API Query)
+o	Abgleich der Daten mit Apothekenregister und Beurteilung Datenvalidität
 
+o	Optional: Berechnung des Indikators „Entfernung der nächsten Apotheke zum Ortskern“ (Zentrum des Apothekenpolygons mit den Geometriedaten der Gemeinden)
+
+Ausblick: Berechnung des Indikators "durchschnittliche Entfernung zur nächsten Apotheke" (hierzu benötigt man Daten zur Bevölkerungsdichte)
 
 ## Mögliche Challenges
 - Matching Issues
