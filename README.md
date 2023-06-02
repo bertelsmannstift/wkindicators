@@ -39,11 +39,11 @@ Arbeitspaket 1: Für Datenanalyst:innen mit Affinität zu APIs
 
 o	Automatisierte Abfrage der Daten zu Kommunen über Wegweiser Kommune API
 
-o	Path 1: Google Maps (Back-Up)
- - Automatisierte Abfrage der Daten zu Apotheken über Google Places API 
-
-o	Path 2: Open Street Maps (Präferenz)
+o	Path 1: Open Street Maps (Präferenz)
  - Automatisierte Abfrage der Daten zu Apotheken über Open Street Maps API
+ 
+o	Path 2: Google Maps (Back-Up)
+ - Automatisierte Abfrage der Daten zu Apotheken über Google Places API 
  
 o	Optional: Proof of Concept und Set-up für GitHub Actions (ins. .yml-File in einem festzulegenden Turnus, min. 2x jährlich)
 
