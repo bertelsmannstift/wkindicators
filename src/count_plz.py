@@ -10,8 +10,7 @@ os.chdir('..')
 
 #%% 
 # import .geojson file
-pharmacies = gpd.read_file('data/pharmacyoverpassexport.geojson')
-
+#pharmacies = gpd.read_file('data/pharmacyoverpassexport.geojson')
 
 # %%
 
@@ -74,3 +73,4 @@ df_counts = df_counts.merge(to_merge, left_on= 'ags', right_on='ags', how='left'
 # #df.groupby('postcode').count()
 # df_counts = df.postcode.value_counts()
 
+df_counts.to_csv('data/output/pharmacies_per_plz.csv', index=False)
