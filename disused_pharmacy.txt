@@ -1,0 +1,11 @@
+[out:csv( ::id, name, ::center, ::lat, ::lon, "addr:city", "addr:street", "addr:housenumber", "addr:postcode", "opening_hours")];
+area["de:regionalschluessel"~"^01.*"]->.searchArea;
+(
+  node["disused:amenity"="pharmacy"](area.searchArea);
+  way["disused:amenity"="pharmacy"](area.searchArea);
+  relation["disused:amenity"="pharmacy"](area.searchArea);
+  node["disused:healthcare" = "pharmacy"](area.searchArea);
+  way["disused:healthcare" = "pharmacy"](area.searchArea);
+  relation["disused:healthcare" = "pharmacy"](area.searchArea);
+);
+out center;

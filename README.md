@@ -58,6 +58,33 @@ o	Optional: Berechnung des Indikators „Entfernung der nächsten Apotheke zum O
 
 Ausblick: Berechnung des Indikators "durchschnittliche Entfernung zur nächsten Apotheke" (hierzu benötigt man Daten zur Bevölkerungsdichte, beispielsweise verfügbar über das [BKG](https://mis.bkg.bund.de/trefferanzeige?docuuid=02B4A03F-A187-484E-B6B6-7C0FF1BC7270), die statt Melderegisterdaten allerdings selbst die Prognosedaten von Nexiga GmbH und Infas nutzen)
 
+##Aufteilung der Regionalschlüssel
+```
+1.–2. Stelle   = Kennzahl des Bundeslandes
+3. Stelle      = Kennzahl des Regierungsbezirks; wenn nicht vorhanden: 0
+4.–5. Stelle   = Kennzahl des Landkreises oder der kreisfreien Stadt
+6.–9. Stelle   = Verbandsschlüssel
+10.–12. Stelle = Gemeindekennzahl
+```
+
 ## Mögliche Challenges
 - Matching Issues
 - Datenqualität und -Vollständigkeit
+
+## Network Analyse
+Berechnung der kürzesten Laufdistanz von einer Adresse bis zu einer Apotheke. Möglicher Indikator für Kommunen: Mittelwert der Laufdistanzen in einer Gemeinde oder Postleitzahl
+Benötigte Daten:
+- Straßennetz als Shapefile (Quelle: Openstreetmap)
+- Punktkoordinaten von Apotheken (Quelle: Openstreetmap)
+- Punktkoordinaten von Adressen (Quelle: Amtliche Liegenschaftskarten, INSPIRE)
+R packages:
+- sf und sfnetworks
+- Vignettte für "sfnetwork": https://cran.r-project.org/web/packages/sfnetworks/vignettes/sfn04_routing.html
+
+## Mögliche weitere Analysen
+- Um zu schauen, welche Regionen besonders betroffen von "Apothekensterben" sind, haben wir einen Datensatz mit geschlossenen Apotheken aus OSM gezogen. 
+- Files: disused_pharmacy.csv (data) und disused_pharmacy.txt (benutzte query)
+- Es sind ca. 1000 Apotheken Deutschlandweit im Datensatz. 
+- Als Einschränkung wurde direkt angemerkt, dass die Datenqualität schwierig ist, weil es nicht klar ist, wann die Apotheke geschlossen wurde (teilw. wohl historische Apotheken, teilw. kürzlich geschlossene, teilw. sind sie nur umgezogen). 
+- Analyse tbd
+
