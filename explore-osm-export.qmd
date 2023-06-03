@@ -1,7 +1,7 @@
 ---
 title: "Explore OSM Export"
 format:
-  html:
+  gfm:
     code-fold: true
     code-summary: "Show the code"
     df-print: paged
@@ -30,11 +30,14 @@ We are working with a CSV `sh_apotheken.csv` that was generated through a query 
 
 This is not as straight forward since the opening hours are entered by humany and can take different formats. There are a couple of github repos who have already started to tackle this problem. 
 
-Github repo: https://github.com/opening-hours/opening_hours.js#time-ranges
-OSM Opening Hours Interface: https://openingh.openstreetmap.de/evaluation_tool/?lng=en
-OSM Opening Hours Wiki: https://wiki.openstreetmap.org/wiki/DE:Key:opening_hours
+- Github repo: https://github.com/opening-hours/opening_hours.js#time-ranges
+- OSM Opening Hours Interface: https://openingh.openstreetmap.de/evaluation_tool/?lng=en
+- OSM Opening Hours Wiki: https://wiki.openstreetmap.org/wiki/DE:Key:opening_hours
 
 ```{r}
+# | echo: false
+# | message: false
+
 # extract number of days per week
 
 pharmacies_processed <- pharmacies_raw %>% 
@@ -46,10 +49,8 @@ pharmacies_processed <- pharmacies_raw %>%
     mutate(flag_missing_name = is.na(name)) %>%
 
     # extract opening hours
-    mutate(
-        opening_days = str_extract_all(opening_hours, "Mo|Di|Mi|Do|Fr|Sa|So")) %>%
-    mutate(n_opening_days = str_count(opening_days)) %>% 
-    mutate(n_opening_hours = str_count(opening_hours, "([0-9]{2}:[0-9]{2})"))
+    # nicht die perfekte lösung weil zB Mo-Fr nicht abgedeckt
+    mutate(opening_days = str_extract_all(opening_hours, "Mo|Di|Mi|Do|Fr|Sa|So"))
 ```
 
 ## Exploring 
@@ -58,13 +59,11 @@ pharmacies_processed <- pharmacies_raw %>%
 
 **How many pharmacies are in the dataset? By Bundesland?**
 
-**How many missings do we have in the main columns of interest?
-**
+**How many missings do we have in the main columns of interest?**
 ```{r}
 pharmacies_processed %>% 
     skimr::skim(
         name,
-        center,
         addr_city,
         addr_street,
         opening_hours,
@@ -72,8 +71,7 @@ pharmacies_processed %>%
     )
 ```
 
-**How many duplicate streets do we see?
-**
+**How many duplicate streets do we see?**
 ```{r}
 pharmacies_processed %>% 
 	count(addr_street, sort = TRUE) %>% 
@@ -84,14 +82,9 @@ pharmacies_processed %>%
 for the future:
 
 -   Data Quality: What are potential problems?
-
 -   Data Availability:
-
     -   Name: Does the entry have a name? -\> if not, filter out
-
     -   Opening Hours: How many entries have a opening hours?
-
-
 
 ## Exporting
 
