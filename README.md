@@ -61,3 +61,13 @@ Ausblick: Berechnung des Indikators "durchschnittliche Entfernung zur nächsten 
 ## Mögliche Challenges
 - Matching Issues
 - Datenqualität und -Vollständigkeit
+
+## Network Analyse
+Berechnung der kürzesten Laufdistanz von einer Adresse bis zu einer Apotheke. Möglicher Indikator für Kommunen: Mittelwert der Laufdistanzen in einer Gemeinde oder Postleitzahl
+Benötigte Daten:
+- Straßennetz als Shapefile (Quelle: Openstreetmap)
+- Punktkoordinaten von Apotheken (Quelle: Openstreetmap)
+- Punktkoordinaten von Adressen (Quelle: Amtliche Liegenschaftskarten, INSPIRE)
+R packages:
+- sf und sfnetworks
+- Vignettte für "sfnetwork": https://cran.r-project.org/web/packages/sfnetworks/vignettes/sfn04_routing.html
