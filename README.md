@@ -58,7 +58,7 @@ o	Optional: Berechnung des Indikators „Entfernung der nächsten Apotheke zum O
 
 Ausblick: Berechnung des Indikators "durchschnittliche Entfernung zur nächsten Apotheke" (hierzu benötigt man Daten zur Bevölkerungsdichte, beispielsweise verfügbar über das [BKG](https://mis.bkg.bund.de/trefferanzeige?docuuid=02B4A03F-A187-484E-B6B6-7C0FF1BC7270), die statt Melderegisterdaten allerdings selbst die Prognosedaten von Nexiga GmbH und Infas nutzen)
 
-##Aufteilung der Regionalschlüssel
+## Aufteilung der Regionalschlüssel
 ```
 1.–2. Stelle   = Kennzahl des Bundeslandes
 3. Stelle      = Kennzahl des Regierungsbezirks; wenn nicht vorhanden: 0
@@ -80,6 +80,19 @@ Benötigte Daten:
 R packages:
 - sf und sfnetworks
 - Vignettte für "sfnetwork": https://cran.r-project.org/web/packages/sfnetworks/vignettes/sfn04_routing.html
+
+## Overpass Query for Germany
+[out:csv( ::id, name, ::center, ::lat, ::lon, "addr:city", "addr:street", "addr:housenumber", "addr:postcode", "opening_hours")];
+area["ISO3166-1"="DE"]->.searchArea;
+(
+  node["amenity"="pharmacy"](area.searchArea);
+  way["amenity"="pharmacy"](area.searchArea);
+  relation["amenity"="pharmacy"](area.searchArea);
+  node["healthcare" = "pharmacy"](area.searchArea);
+  way["healthcare" = "pharmacy"](area.searchArea);
+  relation["healthcare" = "pharmacy"](area.searchArea);
+);
+out center;
 
 ## Mögliche weitere Analysen
 - Um zu schauen, welche Regionen besonders betroffen von "Apothekensterben" sind, haben wir einen Datensatz mit geschlossenen Apotheken aus OSM gezogen. 
