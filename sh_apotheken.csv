@@ -1,0 +1,613 @@
+@id	name	@center	@lat	@lon	addr:city	addr:street	addr:housenumber	addr:postcode	opening_hours
+29863270	Wandels Apotheke St. Hubertus		53.8212394	10.7251611	Groß Grönau	Sankt Hubertus	28	23627	"""bleibt vorerst geschlossen"""
+29871630	Wandels Apotheke EKZ Grönauer Heide		53.8127872	10.7393578					Mo-Fr 08:30-18:30; Sa 08:30-14:00
+30767316	Markt-Apotheke		53.6123674	10.4035279	Trittau	Kirchenstraße	6	22946	Mo-Fr 08:30-18:30; Sa 08:30-13:00; PH off
+30767317	Alte Apotheke von 1828		53.6096041	10.4068668					
+30767318	Post-Apotheke		53.6084902	10.4094979					
+69420963	West-Apotheke		53.6725178	10.2208990		Wulfsdorfer Weg	39		Mo-Fr 08:30-18:30; Sa 08:30-13:00
+71633272	Raths Apotheke		54.3387819	10.1340935					"Mo-Fr 08:00-19:00; Sa 09:00-14:00; Su,PH off"
+71633602	apo-rot Esmarch-Apotheke		54.3415522	10.1330825		Holtenauer Straße	149	24118	"Mo-Fr 08:00-18:30; We 08:00-18:00; Sa 09:00-13:00; Su,PH off"
+130225614	Vital Apotheke		54.3530032	10.0900355	Kiel	Eckernförder Straße	362	24107	"Mo-Sa 08:00-20:00; Su,PH off"
+173842261	Einhorn-Rats-Apotheke		54.4766504	9.0516159	Husum	Markt	10-12	25813	Mo-Fr 08:00-18:30; Sa 09:00-13:00
+243632297	Apotheke im famila Markt		54.3228836	10.0542190					Mo-Sa 08:00-20:00
+243632409	Mettenhof Apotheke		54.3216376	10.0526433					"Mo-Th 08:00-18:30; We,Fr 08:00-18:00; Sa 09:00-13:00; Su,PH off"
+245015433	Jütland Apotheke		54.3140365	10.0507453		Jütlandring	24		"Mo-Th 08:30-13:00,15:00-18:30; Fr 08:30-18:30; Sa 08:30-13:00; Su,PH off"
+253037728	Stromeyer's Apotheke		54.7554633	9.4018697	Flensburg	Husumer Straße	310	24941	"Mo-Fr 08:00-18:30; Sa 08:00-13:00; Su,PH off"
+258333129	Neue Apotheke		53.8317744	10.4895145	Reinfeld (Holstein)	Paul-von-Schoenaich-Straße	25	23858	Mo-Fr 07:45-19:00; Sa 08:00-13:00
+260142153	Glocken-Apotheke;Physioteam Wedel		53.5787767	9.7045164					Mo-Fr 08:00-18:00; Sa 08:00-13:00
+260342815	Pluspunkt Apotheke		53.5777453	9.7061741					Mo-Fr 08:00-19:00; Sa 08:00-18:00; PH closed
+266415498	Die Falken-Apotheke		53.4902317	10.3622312					Mo-Fr 08:00-19:30; Sa 08:00-13:00; PH off
+268592508	Ring Apotheke am Dreiecksplatz		54.3290319	10.1335077	Kiel	Holtenauer Straße	2-6	24105	"Mo-Fr 08:00-19:00, Sa 09:00-14:00; Su,PH off || ""und zu Notdienstzeiten, siehe http://www.greif-apotheke-kiel.de/greif-apotheke-am-dreiecksplatz/notdienst/"""
+269109632	Apotheke am Bebelplatz		54.2946816	10.1845993	Kiel	Bebelplatz	11	24146	
+269386914	Central-Apotheke		54.2960987	10.1763690	Kiel	Preetzer Chaussee	134	24146	
+270632424	Sonnen-Apotheke		53.6866750	9.6726402	Uetersen	Schanzenstraße	2	25436	
+270632613	Rathaus-Apotheke		53.6834932	9.6651787	Uetersen	Großer Sand	1	25436	Mo-Fr 08:00-18:30; Sa 09:00-13:00
+270891890	Staggenborg Apotheke		53.6718687	9.7737883	Prisdorf	Peiner Hag	1	25497	Mo-Sa 8:00-20:00
+271741653	Linden-Apotheke		54.4824607	9.6954890	Fleckeby	Hauptstraße	20	24357	"Mo-Fr 08:30-12:30,14:30-18:00; Sa 08:30-12:30; Su off"
+271883830	Apotheke Wanderup		54.6885233	9.3312110	Wanderup	Flensburger Straße	6	24997	
+271926726	Apotheke auf dem Rhen		53.7537579	9.9974036	Henstedt-Ulzburg	Wilstedter Straße	45	24558	Mo-Fr 08:00-19:00; Sa 08:00-13:00
+273894263	Wehles-Apotheke		53.5983516	9.8488274					"Mo-Fr 08:30-13:30,14:15-18:30; Sa 08:30-12:30"
+277241398	Aesculap-Apotheke		53.7480010	9.6769872	Elmshorn	Hermann-Ehlers-Weg	4	25337	Mo-Fr 08:00-18:30; Sa 09:00-13:00
+277242126	Staggenborg Apotheke im E-Center A23		53.7426756	9.7092665	Elmshorn	Ramskamp	102	25337	Mo-Sa 8:00-20:00
+277672951	Stegen Apotheke		53.7502812	9.6562566	Elmshorn	Vormstegen	31	25336	"Mo,Tu,Th 08:00-18:30;We,Fr 08:00-18:00;Sa 09:00-12:00"
+277674986	Sonnenapotheke		53.7536309	9.6554407	Elmshorn	Königstraße	32	25335	Mo-Fr 08:30-18:30; Sa 08:00-14:00
+277836370	Rosen Apotheke		53.5814179	9.7057704					
+277926135			53.6894561	10.4913261					
+279720128	Sankt Stephanus-Apotheke		53.6001757	9.8249565	Schenefeld	Hauptstraße	33-37	22869	Mo-Fr 08:00-18:30; Sa 08:00-13:00; Su off
+280169927	Apotheke am Markt		54.4076799	9.9743880	Gettorf	Kirchhofsallee	2	24214	Mo-Fr 08:00-18:30; Sa 08:00-14:00
+283756269	Linden-Apotheke		53.8667856	10.2524735					
+287823097	Neue Laurentius-Apotheke		53.8727595	10.6568427					Mo-Fr 08:00-18:30;Sa 08:00-13:00
+288876191	Alte Rathaus Apotheke		54.8008569	9.3963186	Harrislee	Musbeker Weg	1	24955	
+288879305	Grenz-Apotheke		54.7989508	9.3998302	Harrislee	Zur Höhe	10	24955	
+289676062	Trave Apotheke		53.8100177	10.3758140	Bad Oldesloe	Mühlenstraße	18	23843	Mo-Fr 08:00-19:00; Sa 08:00-16:00; PH off
+290366712	Apotheke am Lindenplatz		53.8659850	10.6743341					"Mo,Tu,Th 08:00-19:00; We 08:00-18:00; Fr 08:00-18:30; Sa 09:00-13:00"
+290370715	Löwen-Apotheke		53.8680152	10.6880651					Mo-Fr 09:00-18:30; Sa 10:00-15:00
+290370716	Pinguin-Apotheke		53.8671988	10.6877855					Mo-Fr 08:30-18:30; Sa 09:00-16:00
+290370717	Kohlmarkt-Apotheke		53.8658786	10.6848865					Mo-Th 08:00-18:30;Fr-Sa 08:00-19:00
+290370722	Apotheke am Mönkhofer Weg		53.8443624	10.6991266					Mo-Tu 8:00-18:30;We 8:00-18:00; Th-Fr 8:00-18:30;Sa 8:00-13:00
+291579710	Einhorn-Apotheke		54.3159864	10.1208626	Kiel	Kirchhofallee	63	24114	"Mo-Fr 08:30-18:00; Sa 08:30-13:00; Su,PH off"
+291579969	Phönix-Apotheke		54.3158597	10.1269193	Kiel	Ringstraße	32	24103	"Mo,Tu,Th,Fr 09:00-13:00, Mo,Tu,Th 15:00-18:30, Fr 15:00-18:00, We 09:00-13:30"
+291579980	Apotheke am ZOB		54.3165341	10.1326720	Kiel	Auguste-Viktoria-Straße	14	24103	"Mo,Tu,Th,Fr 08:30-18:00, We 08:30-14:00"
+291580026	Friesen Apotheke		54.3223098	10.1212716		Kronshagener Weg	17		"Mo-Fr 08:30-13:30,14:30-18:30; Sa 09:00-14:00; Su,PH off"
+291580066	Adler-Apotheke		54.3248283	10.1217444	Kiel	Jungfernstieg	37	24116	"Mo-Fr 08:00-18:30; We 08:00-18:00, Sa 08:00-13:00"
+291686373	Medica-Apotheke		54.3201098	10.1263831	Kiel	Prüner Gang	15	24103	Mo-Fr 08:00-18:30; Sa 08:00-13:00
+291918916	Herz Apotheke		54.3293131	10.1979182	Kiel	Schönkirchener Straße	80	24149	"Mo-Sa 08:00-20:00; PH,Su off"
+292494996	Pinguin-Apotheke im Hochschulstadtteil		53.8316398	10.6907110					Mo-Fr 08:00-20:00; Sa 09:30-20:00
+293040868	CITTI-PARK Apotheke Rüdel		54.3127700	10.0984348	Kiel	Mühlendamm	1	24113	"Mo-Sa 09:00-20:00; Su,PH off"
+293235753	Germania Apotheke		54.3227322	10.1680172	Kiel	Schönberger Straße	165	24148	"Mo,Tu,Th,Fr 08:00-18:00; We 08:00-13:00; Sa 09:00-12:00; PH,Su off"
+293379455	Löwen-Apotheke		54.6608154	9.9332545	Kappeln	Poststraße	2	24376	Mo-Tu 07:45-18:45; We 07:45-18:30; Th-Fr 07:45-18:45; Sa 09:00-13:30
+293544072	Adler Apotheke		53.7301326	10.2685809	Bargteheide	Rathausstraße	33	22941	Mo-Fr 08:00-18:30; Sa 08:30-13:00; PH off
+293632778	Elefanten-Apotheke am Klinikum		53.8416792	10.7088170					Mo-Fr 08:30-18:30; Sa 09:00-13:30
+293971031	Stadt-Apotheke		53.8669358	10.6879648					"Mo, Tu, Th, Fr 08:30-19:00;We, Fr 08:30-18:30;Sa 09:30-14:00"
+295240972	Brutkamp-Apotheke		54.1467420	9.2837971	Albersdorf	Bahnhofstraße	1	25767	"Mo-Fr 08:00-12:30,14:00-18:00; Sa 08:00-12:30"
+295240973	Elisabeth-Apotheke		54.1465619	9.2851203	Albersdorf	Bahnhofstraße	6	25767	Mo-Fr 08:00-18:30; Sa 08:00-13:00
+295392943	Apotheke Süderbrarup		54.6353162	9.7748616	Süderbrarup	Große Straße	22	24392	"Mo-Fr 08:00-13:00,14:00-18:30; Sa 08:00-12:30"
+295427289	Anker-Apotheke		53.6818865	9.6696551	Uetersen	Großer Sand	52	25436	"Mo-Fr 08:00-12:30,14:00-18:30; We,Sa 08:00-12:30"
+295607851	Elefanten Apotheke		53.8315096	10.6925095					Mo-Fr 08:30-18:00;Sa 09:00-13:00
+296097119	Coppernicus-Apotheke		53.6840473	9.9851764	Norderstedt	Berliner Allee	34a	22850	Mo-Fr 08:30-19:00; Sa 09:00-18:00; PH off
+296343017	Adler-Apotheke		53.8672894	10.6860340					Mo-Fr 08:30-18:00; Sa 09:00-15:00
+296344953	Pinguin-Apotheke		53.8632027	10.6869340					Mo-Fr 08:00-18:00; Sa 10:00-14:00
+296344956	galenus-Apotheke		53.8618129	10.6878120					"Mo,Tu,Th 08:00-19:00;We,Th 08:00-18:00;Sa 09:00-13:00"
+297044405	Apotheke am Behnhaus		53.8699691	10.6892486	Lübeck	Königstraße	14	23552	Mo-Fr 08:00-18:00; Sa 09:00-13:30
+297349106	Kisdorf Apotheke		53.8108300	10.0123902	Kisdorf	Dorfstraße	20	24629	
+297643826	Einhorn Apotheke		53.8320115	10.4914710	Reinfeld	Raiffeisenpassage	22	23858	Mo-Fr 08:00-18:00; Sa 09:00-13:00
+298274818	Apotheke im Plaza		54.3090788	10.1083026					Mo-Sa 08:00-20:00
+298605916	Rantzau-Apotheke		53.7884689	9.7711980	Barmstedt	Küsterkamp	1	25355	"Mo-Fr 08:00-12:30,14:00-18:30; Sa 08:00-12:30"
+298606272	Privilegierte Apotheke		53.7893007	9.7726961	Barmstedt	Reichenstraße	2	25355	"Mo-Fr 08:00-12:30,14:00-18:30; Sa 08:00-12:30"
+299422580	Stanges Kur Apotheke		54.4043762	10.2244075	Laboe	Oberdorf	1a	24235	
+299517165	Hubertus-Apotheke		54.2914202	10.8866890	Oldenburg in Holstein	Markt	2	23758	
+302611962	Apotheke am Amtsgericht		54.2918917	10.9025122	Oldenburg in Holstein	Ostlandstraße	1	23758	Mo-Fr 08:30-18:30; Sa 08:30-12:30
+304048861	Apotheke Dänischenhagen		54.4278788	10.1315459	Dänischenhagen	Scharnhagener Straße	6	24229	"Mo,Tu,Th 08:30-13:00,15:00-18:30; We 08:30-13:00; Fr 08:30-13:00,15:00-18:00; Sa 09:00-12:30"
+304952734	Pluspunkt-Apotheke		53.6827934	9.6657669	Uetersen	Großer Sand	12	25436	Mo-Fr 08:00-19:00;Sa 08:00-14:00
+304952745	Löwen-Apotheke		53.6838968	9.6643264	Uetersen	Großer Wulfhagen	50	25436	
+307420099	Apotheke Rugenbergen		53.6645569	9.9054874	Bönningstedt	Am Markt	2	25474	"Mo-Fr 08:30-13:00,14:00-18:30; Sa 08:30-12:30"
+308042658	Reuter Apotheke		53.6904449	9.6630736	Uetersen	Reuterstraße	32a	25436	Mo-Fr 08:00-18:00; Sa 08:00-12:00
+309718353	Elefanten Apothekte		53.8715786	10.7467543					Mo-Sa 08:00-20:00
+309823084	Klindwort Apotheke Rathausgasse		53.9188947	10.6965145	Bad Schwartau	Rathausgasse	2a	23611	"Mo,Tu,Th,Fr 08:00-18:30; We 08:00-18:00; Sa 08:00-13:00; PH off"
+309832915	Mühlen-Apotheke		53.5419067	10.1662371	Oststeinbek	Möllner Landstraße	28	22113	Mo-Fr 08:30-18:30; Sa 08:30-13:00; PH off
+312744559	Guten Tag Apotheke		53.5473202	10.1532539	Oststeinbek	Willinghusener Weg	1	22113	Mo-Sa 08:00-20:00; PH off
+315008548	Flottkamp-Apotheke		53.8319339	9.9499143	Kaltenkirchen	Flottkamp	124	24568	
+316012314	Hirsch-Apotheke		54.4098585	9.9765701	Gettorf	Herrenstraße	8	24214	"Mo-Fr 08:00-13:45,15:00-19:00;PH off"
+316041750	Anker-Apotheke		54.3242617	10.1148328		Kronshagener Weg	59		"Mo-Fr 08:00-18:00; Sa 08:00-13:00; PH closed; 2020 May 1 Fr 08:00-24:00 open ""Notdienst""; 2020 May 2 Sa 00:00-08:00 open ""Notdienst"""
+316178016	Stern-Apotheke		53.8590643	10.6713485					Mo-Fr 08:30-18:00; Sa 08:30-13:00
+316420428	Paracelsus Apotheke		53.8398837	10.6308776					Mo-Fr 07:30-19:00;Sa 08:30-13:00
+317258564	Kahlhorst-Apotheke		53.8497543	10.6985306					Mo-Fr 08:00-18:30; Sa 08:30-13:00
+317259088	Buddenbrook-Apotheke		53.8750433	10.7084863	Lübeck	Heiligen-Geist-Kamp	4	23568	"Mo-Fr 08:00-18:30; Sa 08:30-13:00; Su,PH off"
+318023662	Sankt Gertrud-Apotheke		53.8757243	10.7012768					"Mo,Tu,Th,Fr 08:00-18:30; We 08:00-18:00; Sa 08:00-13:00"
+318236823	Moltke-Apotheke		53.8628060	10.6982633					"Mo-Fr 08:00-13:30,14:30-18:30;Sa 08:30-13:00"
+318909221	Apotheke am Strand		53.9972305	10.7832781					
+321315869	Staggenborg Apotheke am Koppeldamm		53.7660157	9.6672170	Elmshorn	Koppeldamm	27b	25335	Mo-Sa 08:00-20:00
+321419623	Kreuz-Apotheke		54.7814392	9.4766845	Flensburg	Taruper Hauptstraße	55	24943	"PH,Su off; Mo-Fr 08:00-18:00; Sa 09:00-12:00"
+321901855	Voss Apotheke		54.1361109	10.6135339	Eutin	Peterstraße	30	23701	
+323158886	Ritter-Apotheke		54.6924740	9.6040104	Mittelangeln	Glücksburger Straße	1	24986	"Mo,Tu,Th 07:45-20:00; We,Fr 07:45-18:30; Sa 07:45-13:00"
+325953922	Lilien Apotheke		53.8862299	10.6501548					Mo-Su 08:00-18:00;Sa 08:00-13:00
+325954621	Lilien.Apotheke am Rathaus		53.8881981	10.6507025					"Mo,Tu,Th 08:00-18:30; We,Fr 08:00-18:00; Sa 08:00-13:00"
+325956305	Lübbers Apotheke am Rathausmarkt		53.8870387	10.6498892					
+326916026	Spitzweg Apotheke		53.8091052	10.3684324					
+332649240	Apotheke im Plaza Center		53.4353507	10.3720087	Geesthacht	Norderstraße	16	21502	Mo-Fr 08:00-20:00; Sa 08:00-19:00; PH off
+335543671	Anker-Apotheke		54.1313449	8.8557968	Büsum	Westerstraße	30	25761	Nov-Mar: Mo-Fr 08:00-18:30; Sa 08:00-12:30; Apr-Oct: Mo-Fr 08:00-18:30; Sa 08:00-18:00
+335675539	Albert-Schweitzer-Apotheke		53.9480168	9.5047151	Itzehoe	Albert-Schweitzer-Ring	26g	25524	Mo-Fr 08:00-13:00; Mo-Tu 14:30-18:30; We 14:30-18:00; Th 14:30-18:30; Fr 14:30-18:00; Sa 08:30-12:30
+335934464	Nikolai-Apotheke		54.7825356	9.4358083	Flensburg	Südermarkt	12	24937	Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su off
+338862236	Schulhaus-Apotheke		54.5420465	9.8154175	Rieseby	Dorfstraße	29	24354	"Mo-Fr 08:00-12:00,14:30-18:30; Sa 08:30-12:30; Su,PH off"
+340263022	Uhland-Apotheke		53.8546973	10.6883240					"Mo-Fr 08:00-13:30,15:00-18:00; Sa 09:00-12:30"
+340354214	Apotheke zur Erle		53.7510688	9.9189668	Ellerau	Berliner Damm	15	25479	Mo-Fr 08:00-18:30; Sa 08:30-13:00
+343156549	Humbold Apotheke		53.9154403	10.8080060					"Mo-Fr 08:30-13:00,15:00-18:30;Sa 08:30-13:00"
+345100938	Schwan-Apotheke		53.9227387	9.3756812	Wilster	Kohlmarkt	51	25554	"Mo-Fr 08:30-12:00,13:30-18:30"
+345100940	Westwind Apotheke		53.9249373	9.3825859	Wilster	Steindamm	11	25554	"Mo-Fr 08:00-12:45,13:35-18:00; Sa 08:30-13:00"
+346155920	Apotheke Ratekau		53.9476928	10.7346695	Ratekau	Bäderstraße	24	23626	Mo-Fr 08:30-18:00; Sa 08:30-12:30; PH off
+347507913	Apotheke im Mediohaus		53.8363669	9.9631251	Kaltenkirchen	Brauerstraße	1	24568	Mo-Fr 07:00-20:00; Sa 07:00-17:00
+347508111	Hirsch-Apotheke		53.8384505	9.9622009	Kaltenkirchen	Am Markt	3	24568	
+349218673	Fischers Apotheke		54.4608440	9.2406290	Ostenfeld (Husum)	Hauptstraße	49	25872	"Mo,Th 08:00-13:00,14:30-18:30; Tu,Fr 08:00-13:00,14:30-18:00; We 08:00-13:00; Sa 08:00-12:00"
+349226669	Kreuz-Apotheke		54.5149434	9.3208089	Treia	Treenestraße	36	24896	Mo-Fr 08:00-18:30; Sa 08:00-12:00
+350286906	Apotheke Sereetz		53.9199520	10.7338418	Ratekau	Schwartauer Straße	1	23611	"Mo-We 08:30-12:30,14:30-18:30; Th-Fr 08:30-18:30; Sa 08:30-12:30; PH off"
+353103889	Apotheke Ascheberg		54.1502115	10.3439761	Ascheberg	Langenrade	2b	24326	
+353335858	Delphin-Apotheke		54.1309459	8.8605712	Büsum	Alleestraße	10	25761	Mo-Fr 08:00-18:30; Sa 08:00-18:00
+355609728	Bären-Apotheke		54.7048651	9.2474681	Großenwiehe	Hauptstraße	14	24969	"Mo,Tu,Th,Fr 08:00-12:30,14:30-18:30; We 08:00-12:30; Sa 08:00-12:00; Su,PH off"
+356761808	Freesen Apotheke		54.0708067	9.9395229	Neumünster	Wasbeker Straße	330	24537	Mo-Sa 08:00-20:00; PH off
+358005524	Löwen-Apotheke		54.4713340	9.8370988	Eckernförde	Kieler Straße	23	24340	Mo-Fr 08:15-18:15; Sa 08:15-13:00; Su off
+358874458	Olympia Apotheke Schilksee		54.4172539	10.1711648	Kiel	Langenfelde	121	24159	"Mo-Fr 08:00-19:00; Sa 08:00-18:00; Su closed; PH unknown; 2020 Mar 22 08:00-24:00 open ""Notdienst""; 2020 Mar 23 00:00-08:00 open ""Notdienst""; 2020 Apr 24 08:00-24:00 open ""Notdienst""; 2020 Apr 25 00:00-08:00 open ""Notdienst"""
+359459857	Löwenapotheke GZL		54.2348752	10.2812401	Preetz	Markt	9-12	24211	"Mo-Tu,Th 08:00-19:00; We,Fr 08:00-18:30; Sa 08:00-13:30"
+359459859	Schwentine-Apotheke		54.2355140	10.2812195	Preetz	Markt	4	24211	"Mo,Fr 08:00-18:30; Tu,Th 08:00-19:00; We 08:00-18:00; Sa 08:00-13:00"
+360395577	Apotheke Jevenstedt		54.2334903	9.6664099	Jevenstedt	Dorfstraße	14	24808	"Mo,Tu,Th,Fr 08:00-12:00,14:00-18:30; We,Sa 08:00-12:00; Su off"
+361055219	Trave-Apotheke		53.8879966	10.7978847					"Mo 08:00-13:00,15:00-18:30; Tu 08:00-13:00,15:00-18:00; We 08:00-13:00; Th 08:00-13:00,15:00-18:30; Fr 08:00-13:00,15:00-18:00; Sa 08:30-12:30"
+361156985	Apotheke Pansdorf		53.9825905	10.7124596	Ratekau	Eutiner Straße	25	23689	"Mo-Fr 08:30-13:00,14:00-18:30; Sa 08:30-13:00"
+365997839	Erlen-Apotheke		53.5690953	10.1645539	Barsbüttel	Barsbütteler Hof	2a	22885	Mo-Fr 08:00-18:30; Sa 08:00-13:00
+368010737	Forellen Apotheke		54.2869236	10.0854804	Molfsee	Hamburger Landstraße	26	24113	"Mo-Fr 08:00-18:30; We 08:00-13:00,15:00-18:00, Sa 08:30-13:00"
+372972247	Herz Apotheke		53.6015350	9.8376529	Schenefeld	Industriestraße	1b	22869	Mo-Fr 08:30-20:00; Sa 09:00-20:00; PH off
+374243676	DocMare		54.5161724	9.5612836	Schleswig	Stadtweg	47	24837	Mo-Fr 08:00-18:30; Sa 08:30-16:00
+374243716	ABC-Apotheke		54.5164851	9.5622994	Schleswig	Stadtweg	48	24837	"Mo-Fr 08:00-18:30; Sa 09:00-14:00; PH,Su off"
+374243725	Altstadt-Apotheke		54.5165310	9.5641743	Schleswig	Stadtweg	27	24837	"Mo-Fr 08:00-18:00; Sa 09:00-12:30; PH,Su off"
+380427062	Hof-Apotheke		54.1581693	10.4160537	Plön	Lange Straße	1	24306	"Mo, Tu, Th 08:00-18:30; We, Fr 08:00-18:00; Sa 09:00-13:00; PH off"
+380427765	Schloss-Apotheke		54.1580377	10.4161876	Plön	Markt	15	24306	"Mo, Tu, Th 08:00-18:30; We, Fr 08:00-18:00; Sa 09:00-13:00; PH off"
+380800648	Klindwort Apotheke		53.9174338	10.6981866	Bad Schwartau	Lübecker Straße	18	23611	"Mo,Tu,Th,Fr 08:00-18:30; We 08:00-18:00; Sa 08:00-13:00"
+386157368	Fleethörn-Apotheke		54.3258719	10.1278674					Mo-Fr 08:00-18:00; Sa 08:00-13:00
+387482467	Ostsee-Apotheke		54.0525864	10.7525420					"Mo-Fr 08:30-12:30,15:00-18:30; We,Sa 08:30-12:30; PH off"
+387623649	Apotheke Hohn		54.3015528	9.5110583	Hohn	Hauptstraße	14	24806	"Mo,Fr 07:30-13:00,14:30-18:00; Tu,Th 07:30-13:00,14:30-19:00; We 07:30-13:00; Sa 09:00-13:00"
+387802719	Süd-Apotheke		54.2837756	10.1315874	Kiel	Grot Steenbusch	30-40	24145	Mo-Fr 08:00-20:00; Sa 08:00-18:00; Su off
+388086894	Elbmarschen Apotheke		53.8046315	9.6249234	Horst	Horster Viereck	1	25358	Mo-Fr 08:00-19:00; Sa 08:00-14:00
+388156406	Neue Apotheke am Dehnthof		54.6621681	9.9332303	Kappeln	Dehnthof	9	24376	
+388254374	Förde-Apotheke		54.3329795	10.1902178	Kiel	Ivensring	19	24149	
+392351054	Sankt Jürgen-Apotheke		53.8576980	10.6926929					"Mo-Fr 08:00-13:00,14:30-18:00; Sa 09:00-13:00"
+392721173	Wiking Apotheke		54.4040149	10.2218954	Laboe	Dellenberg	10	24235	"Mo-Sa 08:00-13:00; Mo-Tu,Th-Fr 15:00-18:30"
+393207346	Adler-Apotheke		53.6612553	9.7971505	Pinneberg	Dingstätte	22	25421	Mo-Fr 08:00-20:00; Sa 08:00-16:00; PH off
+395497206	Storch-Apotheke		54.3080028	9.3170202	Erfde	Süderende	10	24803	"Mo-Fr 08:00-13:00,14:30-18:30; Sa 08:00-12:00; Su off"
+398857591	Königlich privilegierte Apotheke		54.7718107	8.9739513	Leck		1	25917	Mo-Fr 08:00-18:30; Sa 08:00-13:00
+399075549	Finken-Apotheke		54.7173288	9.6691330	Sörup	Bahnhofstraße	1	24966	"PH,Su off, Mo-Sa 09:00-12:30, Mo,Tu,Th 14:00-19:00, We,Fr 14:00-18:30"
+400697977	Geest-Apotheke		54.7591478	9.1828532	Schafflund			24980	
+409467667	Steinburg Apotheke		53.7884785	9.4244314	Glückstadt	Am Markt	8	25348	"Mo-Fr 08:00-12:30,14:00-18:00;Sa 08:00-12:00"
+409767251	Markt Apotheke		53.9198463	10.6972010		Markt	17		"Mo,Tu,Th,Fr 08:30-18:00; We 08:00-18:00; Sa 08:00-13:00"
+412199827	Cleverbrück Apotheke		53.9049749	10.6717310	Bad Schwartau	Hauptstraße	60	23611	
+412199831	Ahorn Apotheke		53.9056926	10.6738827	Bad Schwartau	Hauptstraße	50	23611	
+413705717	Reuter-Apotheke		53.4794657	10.6175137	Büchen	Zwischen den Brücken	1	21514	Mo-Fr 08:00-19:00; Sa 08:00-13:00
+413705754	Center-Apotheke		53.4850913	10.6154690	Büchen	Möllner Straße	35	21514	Mo-Fr 08:00-18:30; Sa 08:00-13:00; PH off
+414206858	Theodor-Storm-Apotheke		54.1262325	9.4164297	Hanerau-Hademarschen	Theodor-Storm-Straße	9	25557	"Mo-Fr 08:00-19:00; We,Sa 08:00-13:00"
+414206859	Schimmelreiter-Apotheke		54.1273796	9.4121193	Hanerau-Hademarschen	Im Kloster	17	25557	Mo-Tu 08:00-19:00; We 08:00-13:00; Th-Fr 08:00-19:00; Sa 08:00-13:00
+416328193	Schulze's Apotheke		53.6514182	9.7922217	Pinneberg	Oeltingsallee	35	25421	
+417462291	Flora-Apotheke		53.7544251	9.6526362	Elmshorn	Schulstraße	25-27	25335	"Mo-Th 07:30-19:00; We,Fr 07:30-18:00; Sa 09:00-12:30"
+418600326	Sonnen-Apotheke		54.9371025	8.3255986	Wenningstedt-Braderup (Sylt)	Hauptstraße	9	25996	Mo-Fr 08:05-18:00; Sa 09:00-13:00
+419847302	Olympia-Apotheke		53.6524914	9.7909324	Pinneberg	Heinrich-Christiansen-Straße	41	25421	"Mo-Tu,Th 08:00-18:30; We,Fr 08:00-18:00; Sa 08:00-13:00"
+428718607	Apotheke An der Alten Schmiede		53.6212248	9.6710779	Holm	Hetlinger Straße	1	25488	Mo-Fr 08:30-18:30; Sa 08:30-13:00
+429260703	Walddörfer-Apotheke		53.6531728	10.2623789	Großhansdorf	Ahrensfelder Weg	1	22927	Mo-Fr 08:30-19:00; Sa 08:30-13:00; PH off
+432827424	aesculap apotheke		54.3203843	10.1345854					"Mo-Fr 08:00-19:00; Sa 09:00-18:00; PH,Su off"
+439751419	Till-Apotheke		53.6154956	10.6908989	Mölln	Wasserkrüger Weg	127a	23879	"Mo, We, Fr 08:00-18:30; Tu, Th 08:00-19:00; Sa 08:00-13:00"
+439985256	Lottbek-Apotheke		53.6789719	10.1494160	Ammersbek	Hamburger Straße	97	22949	Mo-Fr 08:30-18:30; Sa 08:30-13:30
+440212775	Brunnen-Apotheke		54.3423155	10.1384933	Kiel	Blücherplatz	16	24105	Mo-Fr 08:00-18:00; Sa 08:00-13:00
+440805211	Markt-Apotheke		54.6183265	8.9659220	Bredstedt	Markt	8	25821	Mo-Fr 08:00-18:30; Sa 08:00-12:30
+441311619	Wald-Apotheke		53.9514644	10.2092922	Wahlstedt	Waldstraße	13-15	23812	"Mo-Fr 08:00-13:00,13:30-19:00; Sa 08:00-14:00"
+442093595	Apotheke am Neuen Markt		54.2911371	10.8894823	Oldenburg in Holstein	Kuhtorstraße	24	23758	
+442575441	Apotheke Sülfeld		53.8008673	10.2303477	Sülfeld	Am Markt	11	23867	
+443339780	Bahnhof-Apotheke		54.3028343	9.6671283	Rendsburg	Jungfernstieg	11-13	24768	Mo-Fr 08:30-18:00; Sa 09:00-12:00; Su off
+443340497	Markt-Apotheke		54.3050260	9.6617912	Rendsburg	Hohe Straße	14	24768	
+443340524	Kronwerk-Apotheke		54.3075317	9.6509315		Hollesenstraße	35		"Mo-Fr 08:30-13:00,14:30-18:30; Sa 08:30-13:00"
+443383512	STOP Apotheke		54.3114692	9.6548072	Rendsburg	Eckernförder Straße	48c	24768	Mo-Tu 08:00-19:00; We 08:00-18:30; Th 08:00-19:00; Fr 08:00-18:30; Sa 08:30-13:00
+443458309	Apotheke Sankt Georg		53.6993197	10.7494904		Bahnhofsallee	37		
+443653716	Alster Apotheke		53.7889802	10.0011667	Henstedt-Ulzburg	Neuer Weg	24	24558	Mo-Fr 08:00-18:30; Sa 08:00-13:00
+443685389	Ostsee-Apotheke		54.3906496	10.3732619	Schönberg (Holstein)	Bahnhofstraße	20	24217	
+444329393	Löwen-Apotheke		53.6281141	10.6880164	Mölln	Hauptstraße	47	23879	"Mo-Fr 08:30-18:00, Sa 09:00-13:00"
+444329407	Einhorn-Apotheke		53.6291089	10.6905542	Mölln	Hauptstraße	98	23879	Mo-Fr 08:30-18:00; Sa 08:30-13:00
+444329409	Hubertus-Apotheke		53.6273029	10.6868338	Mölln	Hauptstraße	54-56	23879	"Mo, Tu, Th, Fr 08:00-18:30; We 08:00-18:00; Sa 08:00-13:00"
+444329410	Stadt-Apotheke		53.6270203	10.6873557	Mölln	Bauhof	2	23879	Mo-Fr 08:00-18:30; Sa 08:00-13:00
+444977933	Lister Apotheke		55.0152353	8.4319262	List auf Sylt	Hafenstraße	13	25992	
+446048345	Holsten Apotheke		54.3106069	9.7181340	Schacht-Audorf	Klaus-Groth-Straße	6	24790	Mo-Fr 08:00-19:00;Sa 08:00-13:00
+447079694	Sonnen-Apotheke		54.1357372	10.6171177	Eutin	Lübecker Straße	2	23701	Mo-Fr 08:00-18:30; Sa 07:30-14:00
+452482820	Wassenberg-Apotheke		54.3161221	8.9403367	Tönning	Am Markt	10	25832	"Mo-Fr 08:00-12:30,14:00-18:30; Sa 08:00-12:30"
+453488538	Liliencron-Apotheke		53.7346916	10.0820045					
+462038415	Lamberti-Apotheke		54.4633185	9.0931835	Mildstedt	Dithmarscher Weg	9	25866	"Mo-Fr 08:00-13:00,14:00-18:30; Sa 08:00-12:30"
+463221106	Königlich privilegierte und Kur-Apotheke		54.3915949	10.3728755	Schönberg (Holstein)	Bahnhofstraße	16	24217	
+469086181	Garnison-Apotheke		54.2995438	9.6645578	Rendsburg	Paradeplatz	8	24768	Mo-Fr 08:30-18:30; Sa 08:30-13:00
+469356587	Markt-Apotheke		54.1511256	10.9567493					"Mo-Fr 08:30-12:30,14:00-18:00; Sa 08:30-13:00"
+469718796	Linden-Apotheke		53.8380329	9.9591450	Kaltenkirchen	Holstenstraße	2	24568	Mo-Fr 08:00-19:00; Sa 09:00-13:00
+472311473	Möwen-Apotheke		54.6799087	8.3327675	Norddorf auf Amrum	Lunstruat	7	25946	"Sa 08:30-12:30; Mo-Fr 08:30-12:30, 14:30-18:00"
+473850228	Adler-Apotheke		53.6717383	10.2385698	Ahrensburg	Hagener Allee	16	22926	"Mo,Tu,Th,Fr 08:30-18:30; We 08:30-18:00; Sa 08:30-13:00"
+475720103	Sonnen-Apotheke		54.2384253	10.0639571	Flintbek	Hegereiterweg	2a	24220	
+477201878	Kur Apotheke Niendorf		53.9930443	10.8249158					"Mo,Tu,Th,Fr 08:00-19:00;We 08:00-18:30;Sa 08:00-18:00"
+477605039	Wandels Apotheke EKZ Krummesse		53.7796834	10.6514881	Krummesse	Beidendorfer Weg	30	23628	Mo-Fr 08:00-18:30; Sa 08:00-14:00
+479256585	Adler Apotheke		54.6624752	9.9295064	Kappeln	Schmiedestraße	37	24376	Mo-Fr 08:00-18:00; Sa 08:00-13:00
+492014341	Wellsee Apotheke		54.2917714	10.1627498	Kiel	Segeberger Landstraße	81	24145	
+493384594	Pegasus Apotheke		53.8653140	10.6848916					"Mo-We,Fr 08:00-18:30; Sa 09:00-16:00"
+494228630	Ring Apotheke		54.0659253	9.9962406	Neumünster	Haart	87-89	24534	Mo-Fr 08:00-18:30; We 08:00-18:00; Sa 09:00-13:00
+505570017	Rasmus-Apotheke		54.3508591	10.1924149					Mo-Fr 08:30-18:30; Sa 08:30-13:00; Su off
+513876243	Maximilian-Apotheke		53.5423556	10.2137203	Glinde	Markt	17	21509	"Mo-Fr 08:30-18:30; Sa 08:00-13:30; PH,Su off"
+513876246	Markt-Apotheke		53.5418086	10.2138438	Glinde	Markt	5	21509	"Mo,Tu,Th,Fr 08:30-18:30; Sa 08:00-13:00; PH off; We 08:00-18:30"
+515637418	Ring-Apotheke		54.3127095	10.1472846					"Mo,Tu,Th,Fr 09:00-18:30; We 08:00-18:00; Sa 08:00-13:00"
+515637425	Werft-Apotheke		54.3139645	10.1479567	Kiel	Elisabethstraße	32-34	24143	Mo-Tu 08:30-18:30; We 08:30-18:00; Th 08:30-18:30; Fr 08:30-18:00; Sa 09:00-13:00
+516223968	Amts-Apotheke		54.7988253	9.6356842	Langballig	Süderende	3b	24977	"Mo-Tu 08:00-12:30,14:30-18:30;We 08:00-12:30,14:30-18:00;Th 08:00-12:30,14:30-18:30;Fr 08:00-12:30,14:30-18:00;Sa 08:00-12:30"
+517766502	Angler Apotheke		54.7539267	9.7605883	Steinbergkirche	Westerholmer Straße	3	24972	Mo-Fr 08:30-18:30; Sa 08:30-12:30
+518436229	Holsten-Apotheke		54.3347335	10.2263735	Schönkirchen	Dorfstraße	19	24232	"Mo-Fr 08:00-13:00,15:00-18:15; Sa 08:00-13:00"
+522882455	Möwen-Apotheke		54.4691558	9.8372066	Eckernförde	Kieler Straße	66	24340	Mo-Fr 08:15-18:00; Sa 09:00-13:00
+527332639	Nicolai-Apotheke		54.4726672	9.8350515	Eckernförde	Langebrückstraße	16	24340	"Mo,Tu,Th 08:00-19:00; We,Fr 08:00-18:30; Sa 08:00-13:30"
+537966304	Roland Apotheke		54.3052572	10.1072481		Rendsburger Landstraße	79		"Mo-Fr 08:30-13:00,15:00-18:30; Sa 08:30-13:00"
+537976712	ABC-Apotheke		54.6033947	9.5840967	Böklund	Bahnhofstraße	1	24860	"Mo-We,Fr 08:00-18:30; Th 08:00-19:00; Sa 08:30-12:30; Su off"
+538368870	Apotheke am Hörst		54.4525230	9.8353287	Eckernförde	Rendsburger Straße	119	24340	Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off
+539501529	Nord Apotheke		54.3566522	10.1307786	Kiel	Holtenauer Straße	344	24106	Mo-Fr 08:00-19:00; Sa 08:00-13:00
+541415582	Südermarkt-Apotheke		54.7829064	9.4367273	Flensburg	Südermarkt	1	24937	"Mo,Tu,Th,Fr 08:00-18:30; We 08:00-18:00; Sa 08:00-16:00; Su,PH off"
+541535332	Stadtbrücken-Apotheke		54.1957596	9.1037604	Heide	Hamburger Straße	26-28	25746	Mo-Fr 07:30-19:00; Sa 08:00-14:00
+548134078	Blasberg-Apotheke		54.8009999	9.4544828	Flensburg	Mürwiker Straße	89	24943	Mo-Fr 08:00-18:30; Sa 08:30-13:00
+551346509	Nordland-Apotheke am Dreilingsberg		53.9625836	10.8576091					Mo-Fr 08:30-18:30;Sa 09:00-13:00
+556010397	Rosen-Apotheke		53.6538876	9.8288675	Rellingen	Hauptstraße	82	25462	"Mo-Tu,Th-Fr 08:00-18:30; We 08:00-18:00; Sa 08:30-13:00"
+556010406	Markt-Apotheke		53.6639663	9.7927046	Pinneberg	Elmshorner Straße	13	25421	
+558497994	Apotheke am Bahnhof		54.4677772	9.8362456	Eckernförde	Bahnhofstraße	11	24340	"Mo,We-Fr 08:30-18:00; Tu 08:30-18:30; Sa 09:00-12:30"
+564793468	Apotheke am Fleth		53.7886949	9.4223356	Glückstadt	Am Fleth	44	25348	Mo-Fr 08:00-18:30; We 08:00-18:00; Sa 08:00-12:30
+567023926	Greif-Apotheke		54.0776605	9.9793774	Neumünster	Rendsburger Straße		24534	
+567026603	Flora-Apotheke		54.0757270	9.9815803	Neumünster	Kuhberg	8	24534	Mo-Th 08:00-18:30; We 08:00-18:00; Fr 08:30-12:30
+569711943	Adler-Apotheke		53.5821971	9.7134981	Wedel	Rissener Straße	24	22880	
+581888698	Neue Apotheke am Kirchenbleeck		53.9208810	9.8809080	Bad Bramstedt	Maienbeeck	3	24576	"Mo-Fr 08:00-18:30; Sa 08:00-13:00; Su,PH off"
+582572398	Landweg-Apotheke		53.9218195	9.8855392	Bad Bramstedt	Landweg	31	24576	"Mo-Fr 08:00-18:30; Sa 08:00-12:30; Su,PH off"
+582591284	Elch Apotheke		53.7940402	9.9827306	Henstedt-Ulzburg	Beckersbergstraße	2	24558	Mo-Fr 08:00-19:00; Sa 08:30-14:00
+583304294	Viktoria-Apotheke		54.3070979	10.1425985	Kiel	Preetzer Straße	18	24143	
+583304297	Gaardener Apotheke		54.3105426	10.1457895	Kiel	Karlstal	33	24143	Mo-Fr 08:00-18:00; Sa 08:00-13:00
+586760949	Schlei-Apotheke		54.6614970	9.9463158	Kappeln	Sylter Straße	3	24376	"Mo,Tu,Th,Fr 08:00-12:30,14:30-18:00; We 08:00-12:30; Sa 09:00-12:00; Su,PH off"
+595988380	Königlich Privilegierte Apotheke		54.2338387	10.2817488	Preetz	Kirchenstraße	5	24211	"Mo-Tu,Th 08:00-18:30; We,Fr 08:00-18:00; Sa 08:00-13:00"
+600484648	Russeer Apotheke		54.3004843	10.0768629		Rutkamp	1		Mo-Fr 08:00-18:30; Sa 08:00-13:00
+601097041	Adler-Apotheke am Wasserturm		54.5220122	9.5514045	Schleswig	Schubystraße	89b	24837	"Mo-Fr 08:00-13:00,14:30-18:00; Sa 09:00-12:00"
+603660304	Eichen-Apotheke		53.6880283	10.0390579	Norderstedt	Mittelstraße	74	22851	Mo-Tu 08:30-18:30; We 08:30-18:00; Th-Fr 08:30-18:30;Sa 08:30-12:30; PH off
+609062078	Apotheke Lütjensee		53.6478043	10.3621850	Lütjensee	Up de Höh	1	22952	Mo-Fr 08:30-18:30; Sa 08:30-12:30; PH off
+620380686	Stormarn Apotheke		53.8054522	10.3812151	Bad Oldesloe	Mommsenstraße	12	23843	Mo-Fr 08:00-18:30; Sa 09:00-13:00; PH off
+620884849	Schwansen-Apotheke		54.5707758	9.9571493	Damp	Vogelsang	10	24351	"Mo-Tu 08:30-13:00,15:00-18:00; We 08:30-13:00; Th-Fr 08:30-13:00,15:00-18:00; Sa 08:30-13:00"
+622151278	Bären Apotheke		53.5024479	10.4769277	Schwarzenbek	Hamburger Straße	5	21493	Mo-Fr 08:00-18:30; Sa 08:00-13:00
+622151279	Ahorn Apotheke		53.5010129	10.4699727	Schwarzenbek	Hamburger Straße	33	21493	"Mo,Th 08:00-19:00; Tu,We 08:00-18:30; Fr 08:00-18:00; Sa 09:00-13:00"
+622151281	Stadt-Apotheke		53.5016153	10.4817674	Schwarzenbek	Lauenburger Straße	10	21493	"Mo-Fr 08:30-13:00, Sa 08:30-13:00, Mo-Fr 14:00-18:00"
+627572993	Flora-Apotheke		53.6721585	10.2376194	Ahrensburg	Hamburger Straße	11	22926	Mo-Fr 08:30-18:30; Sa 08:30-13:30; PH off
+632843782	Gadeland Apotheke		54.0531420	10.0200365	Neumünster	Segeberger Straße	56a	24539	
+655320263	St. Michael Apotheke		54.7817281	9.4171808	Flensburg	Am Ochsenmarkt	35	24937	Mo-Fr 08:00-18:00; Sa 08:00-13:00
+655559889	Apotheke am Röterberg		54.1144780	10.2065739	Wankendorf	Röterberg	2	24601	"Mo-Fr 08:00-19:00; We,Sa 08:00-13:00"
+656170437	Duburg-Apotheke		54.7929353	9.4216031	Flensburg	Waldstraße	13-15	24939	"Mo,Tu,Th 08:00-18:30; We,Fr 08:00-18:00; Sa 09:00-13:00"
+659663201	Landhaus-Apotheke		54.1736962	10.0411611	Bordesholm	Bahnhofstraße	41	24582	
+659663229	Klaus-Groth-Apotheke		54.1734154	10.0391179	Bordesholm	Bahnhofstraße	55	24582	Mo-Fr 08:00-19:00; We 08:00-18:30; Sa 08:00-13:00
+660138721	Tarpenbek Apotheke		53.6812908	9.9975752	Norderstedt	Am Tarpenufer	6	22848	Mo-Fr 08:30-18:30; Sa 08:30-13:00
+660918122	Beethoven-Apotheke		54.7984663	9.4748183	Flensburg	Schottweg	94	24944	Mo-Sa 08:00-20:00
+662891039	Brahms-Apotheke		53.6442054	9.8114882	Pinneberg	Diesterwegstraße	33c	25421	Mo-Fr 08:30-18:30; Sa 08:30-12:45
+672832845	Kirch-Apotheke		54.7640536	9.5791017	Husby	Kirchstraße	2	24975	"Mo,Tu,Th 08:00-12:30,14:30-18:30; We 08:00-12:30; Fr 08:00-12:30,14:30-18:00; Sa 08:30-12:00; PH,Su off"
+675030969	Apotheke am Markt		54.2926379	10.5903288	Lütjenburg	Markt	1	24321	
+678731551	Sanihaus Janssen		53.6821853	10.7710554					"Tu,Th 10:00-12:00"
+691923218	Barlach-Apotheke		53.5773631	9.7051963	Wedel	Bahnhofstraße	38-40	22880	Mo-Fr 08:00-18:30; Sa 08:00-13:00; PH off
+694115139	Apotheke Am Freilichtmuseum		54.2746468	10.0745896	Molfsee	Am Museum	1a	24113	"Mo-Fr 08:00-19:00; Sa 08:00-13:00; PH unknown; 2020 Apr 22 08:00-24:00 open ""Notdienst""; 2020 Apr 23 00:00-08:00 open ""Notdienst"""
+695993809	Holsten-Apotheke		53.5846314	9.7248897	Wedel	Rissener Straße	105	22880	Mo-Sa 08:00-20:00; PH off
+700064799	Uhlen-Apotheke		54.6640797	9.4037495	Tarp	Dorfstraße	12	24963	"Mo-Fr 08:00-19:00; Sa 08:00-13:00; Su,PH off"
+701278791	Spitzweg-Apotheke		54.7723597	8.9736901	Leck	Hauptstraße	29	25917	
+702204863	Apotheke 403		54.3550659	10.0861278	Kiel	Eckernförder Straße	403	24107	Sa 08:30-13:00; Mo-Fr 08:30-18:30
+702453547	Apotheke am Neuen Markt		54.1334609	10.6163508	Eutin	Freischützstraße	3	23701	
+706476658	Erlen-Apotheke		53.7277179	9.9969598	Norderstedt	Erlengang	2	22844	Mo-Fr 08:00-18:30; Sa 08:30-13:00
+706691426	Post-Apotheke		53.6499795	9.8296717	Rellingen	Hauptstraße	35	25462	"Mo-Th 08:00-13:00,14:00-18:30; Fr 08:00-18:30; Sa 08:30-14:00"
+708214841	Apotheke am Bleeck		53.9171294	9.8837387	Bad Bramstedt	Bleeck	25	24576	"Mo-Th 08:00-18:30; Fr 08:00-18:00; Sa 08:00-12:30; Su,PH off"
+708792871	Dom-Apotheke		54.5157475	9.5662081	Schleswig	Plessenstraße	13	24837	Mo-Fr 08:00-18:30;Sa 09:00-13:00
+719564509	Bären-Apotheke		54.5174302	9.5681124	Schleswig	Mönchenbrückstraße	10	24837	Mo-Fr 08:00-18:30; Sa 09:00-14:00
+722919393	Brunnen-Apotheke		54.1678809	9.8560779	Nortorf	Kirchhofsallee	2	24589	Mo-Fr 08:00-18:30; Sa 08:00-13:00
+724130917	Hattstedter Apotheke		54.5256087	9.0266350	Hattstedt	Bundesstraße	15b	25856	"Mo-Fr 08:00-12:30,14:30-18:00; Sa 08:00-12:30"
+724163934	Engel-Apotheke		53.9416481	10.3063227	Bad Segeberg	Kurhausstraße	60-62	23795	
+727116646	Insel-Apotheke		54.6903777	8.5685352	Wyk auf Föhr	Große Straße	33	25938	"Mo-Fr 08:30-12:30,14:00-18:00;Sa 09:00-12:00;Jul-Aug:Mo-Fr 08:30-18:30; Sa 09:00-12:30;Nov-Mar:Mo-Fr 08:30-12:30;Sa 09:00-12:00"
+745268395	Lornsen Apotheke		54.3332942	10.1331295					"Mo-Sa 08:00-20:00; Su,PH off"
+745268410	Holsten Apotheke		54.3362403	10.1337429		Holtenauer Straße	114a	24105	"Mo-Fr 08:00-19:00; Sa 09:00-16:00; PH,Su off"
+747789933	Norderstedt-Apotheke		53.6839695	9.9983140	Norderstedt	Ulzburger Straße	10	22850	Mo-Fr 08:30-18:30; Sa 08:30-12:30
+747789935	Spitzweg-Apotheke		53.6824915	10.0114243	Norderstedt	Am Kielortplatz	124	22850	"Mo-Th 08:30-13:00,14:00-18:00; Fr 08:30-18:30; Sa 08:30-13:00"
+762640825	Apotheke am Westensee		54.3039982	9.9368605	Felde	Hasselrader Weg	2	24242	
+768806640	Wellenkamp-Apotheke		53.9093006	9.5001358	Itzehoe	Alsenskamp	2	25524	"Mo-Fr 08:00-12:30,14:00-18:30; Sa 08:00-12:30"
+769126722	Sophien Hof Apotheke Rüdel		54.3170479	10.1317197		Sophienblatt	20		"Mo-Fr 08:30-20:00; Sa 09:30-20:00; Su,PH off"
+773591718	Rathaus-Apotheke		53.7064331	9.9958014	Norderstedt	Rathausallee	11a	22846	Mo-Fr 08:30-18:30; Sa 09:00-13:00
+779155339	Anker Apotheke		54.3722713	10.9767725	Heiligenhafen	Bergstraße	11	23774	"Mo-Fr 08:00-12:30,14:00-18:00; Sa 08:30-12:30, May-Sep Mo-Fr 12:30-14:00; PH off"
+779187074	Dorf-Apotheke		54.2347346	9.8683930	Groß Vollstedt	Dorfstraße	32	24802	
+793241039	Löwen-Apotheke		54.7602933	9.4321375	Flensburg	Schleswiger Straße	130	24941	"Mo-Sa 09:00-20:00; Su,PH off"
+806883123	Rosen-Apotheke		54.3952944	10.1578980	Kiel	Buschblick	152	24159	"Mo-Fr 08:00-13:00,14:30-18:30, Sa 08:00-13:00"
+832731227	Apotheke 21		53.6085470	9.8435674	Schenefeld	Friedrich-Ebert-Allee	21	22869	Mo-Fr 08:00-18:30; Sa 08:30-13:30
+835631833	Staggenborg Apotheke		54.3107037	9.6620711	Büdelsdorf	Am Ahlmannkai	2	24782	Mo-Sa 08:00-20:00; Su off
+841709000	Bären Apotheke		53.8879781	10.6863339					Mo-Sa 08:00-20:00
+846572581	Baumschulen-Apotheke		53.6342888	9.8398882	Halstenbek	Friedrichstraße	1a	25469	"Mo 07:30-12:30,14:00-19:00; Tu-Fr 07:30-12:30,14:00-18:30; Sa 08:30-13:00"
+866190919	Eichberg-Apotheke		53.9496978	10.2944957	Bad Segeberg	Am Eichberg	3	23795	
+866629789	Pinnau Apotheke		53.7304179	9.8968302	Quickborn	Kieler Straße	96	25451	"Mo-Fr 08:00-18:30, Sa 08:30-13:00"
+873676364	Belvedere Apotheke		54.3468773	10.1333190	Kiel	Holtenauer Straße	236	24106	"Mo-Fr 08:00-13:00,14:00-18:00, Sa 09:00-13:00"
+880883842	Pascal Apotheke		53.7422844	9.9401208	Quickborn	Pascalstraße	9	25451	Mo-Fr 08:00-20:00
+897104429	Apotheke Altenholz		54.4109281	10.1272164					Mo-Fr 08:00-19:00; Sa 09:00-14:00
+898933429	Stör-Apotheke		53.9477703	9.7264646	Kellinghusen	Hauptstraße	70	25548	Mo-Fr 08:00-19:00; Sa 08:00-13:00
+899073138	Falderapark-Apotheke		54.0702494	9.9655454	Neumünster	Wasbeker Straße	145c	24534	Mo-Fr 08:00-18:30; Sa 08:30-12:30; PH off
+900274349	Insel-Apotheke		54.9075287	8.3040716	Sylt	Friedrichstraße	17	25980	"Mo-Fr 08:30-18:30, Sa 08:30-13:00"
+901523032	Möwen Apotheke		54.3698054	10.2033484	Heikendorf	Dorfstraße	6	24226	Mo-Fr 08:00-18:00; Sa 08:00-13:00
+904005180	Apotheke in Ulzburg-Süd		53.7711952	9.9785329	Henstedt-Ulzburg	Hamburger Straße	92	24558	Mo-Fr 07:00-19:00; Sa 09:00-13:00
+914764034	Altstadt-Apotheke		54.3235980	10.1382019					"Mo-Fr 08:30-18:30; Sa 09:00-14:00; Su,PH off"
+914764046	Hof-Apotheke		54.3236481	10.1394817		Alter Markt	11		"Mo-Fr 08:00-19:00; Sa 09:00-13:00; Su,PH off"
+914764051	Alte Rats-Apotheke		54.3216970	10.1361814		Holstenstraße	42-44	24103	"Mo-Fr 09:00-18:00; Sa 09:30-14:00; PH,Su off"
+914764064	Stern-Apotheke		54.3320633	10.1319401	Kiel	Holtenauer Straße	45a	24105	"Mo-Fr 08:00-19:00, Sa 08:00-14:00"
+918208090	Everschop-Apotheke		54.3286456	8.7781363	Garding	Fischerstraße	8	25836	"Mo-Fr 08:00-12:30,14:00-18:30; We 08:00-12:30,14:00-18:00; Sa 08:00-12:30"
+926740837	Duhorn-Apotheke		54.0221758	9.3724101	Wacken	Hauptstraße	44	25596	"Mo,Th 08:00-12:30,14:00-19:00; Tu-Fr 08:00-12:30,14:00-18:00; Sa 08:00-12:00"
+937003585	Rathaus-Apotheke		54.4389596	11.1979125	Fehmarn	Am Markt	30	23769	"Mo-Fr 08:00-12:30, Sa 08:00-12:30; PH off, Mo-Fr 14:00-18:00"
+963638220	Sonnen-Apotheke		54.2979383	9.6648897	Rendsburg	Königstraße	18	24768	"Mo,Tu,Th,Fr 08:00-18:30; We 08:00-18:00; Sa 09:00-13:00"
+970389141	Apotheke am Bahnhof Ulzburg		53.7942701	9.9811489	Henstedt-Ulzburg	Hamburger Straße	6	24558	Mo-Fr 08:00-19:00; Sa 08:00-16:00
+976557233	Rantzau Apotheke		53.6722311	10.2403673					"Mo,Th 08:00-19:00, Tu,We,Fr 08:00-18:30, Sa 08:30-14:00"
+976557245	Apotheke am Rondeel		53.6727686	10.2393034	Ahrensburg	Rondeel	9	22926	"Mo-Fr 08:30-18:30, Sa 08:30-15:00; PH off"
+981512317	Stadt-Apotheke		53.8980163	9.1284778	Brunsbüttel	Röntgenstraße	2	25541	Mo-Fr 08:00-18:30; Sa 09:00-13:00;PH off
+983423506	Holsten Apotheke		53.8073370	10.3687985					
+985718122	Accent-Apotheke		53.6740278	10.2387743		Große Straße	30		"Mo-Fr 08:30-18:30, Sa 08:30-14:00"
+987584731	Apotheke im Citti-Park		53.8582843	10.6291900					Mo-Su 08:30-20:00
+988754395	Greif-Apotheke		53.9514850	9.7213773	Kellinghusen	Lornsenstraße	2	25548	Mo-Fr 08:00-19:00; Sa 08:00-13:00
+995834491	Apotheke in Fahrdorf		54.5045175	9.5987666	Fahrdorf	Dorfstraße	56a	24857	"Mo-Fr 08:30-13:00,14:30-18:30; Sa 08:30-13:00; Su off"
+1006964251	Oberstadt Apotheke		53.4400351	10.3921086	Geesthacht	Hansastraße	32	21502	Mo-Fr 08:00-18:30; Sa 08:00-13:00
+1014515079	Guten Tag Apotheke		53.5428297	10.2139254	Glinde	Möllner Landstraße	119	21509	"Mo-Fr 08:00-19:00; Sa 08:00-14:00; PH,Su off"
+1015929828	Apotheke im Gesundheitszentrum		53.6715296	10.2364600	Ahrensburg	Hamburger Straße	23	22926	"Mo-Tu,Th 08:00-18:30; We 08:00-13:30; Fr 08:00-13:30,15:00-18:00; PH off"
+1016725816	Apotheke im Pluspunkt		54.5288286	9.5274707	Schleswig	Flensburger Straße	61	24837	Mo-Sa 08:00-20:00
+1020095067	Rats-Apotheke		54.7853120	9.4348823	Flensburg	Holm	13	24937	"Mo-Fr 08:00-18:30; Sa 09:00-16:00; PH,Su off"
+1027688965	Dithmarscher Apotheke		54.2123537	8.9230080	Wesselburen	Am Markt	10	25764	
+1028473000	ProVita-Apotheke		53.6617405	9.8002115					Mo-Fr 08:30-18:30; Sa 09:30-13:30
+1042629570	Die Wohld-Apotheke		54.4004205	10.1265607	Altenholz			24161	Mo-Fr 08:00-19:00; Sa 08:00-16:00
+1094100026	Paracelsus Apotheke		53.8538638	10.6348832					Mo-Fr 08:30-20:00; Sa 08:30-19:00; PH off
+1127725189	Nordland-Apotheke		53.9573996	10.8702321					Mo-Fr 08:30-18:30; Sa 08:30-16:30;Su 12:00-15:00
+1127725198	Panda Apotheke		53.9577253	10.8706269					Mo-Fr 08:30-18:30; Sa 09:00-16:00
+1194102009	Südstadt-Apotheke		53.9325186	10.3028455	Bad Segeberg	Theodor-Storm-Straße	15c	23795	"Mo-Fr 08:00-13:00,14:00-18:30; Sa 08:00-13:00"
+1238473038	easyApotheke		54.7827238	9.4379857	Flensburg	Holm	57-61	24937	"Mo-Sa 09:00-20:00; Su,PH off"
+1258229098	Insel-Apotheke		54.5193281	8.6848371	Pellworm	Uthlandestraße	7a	25849	
+1258424500	Apozoom / Apotheke am Rathaus		54.3708743	10.2039172	Heikendorf	Dorfstraße	17	24226	Mo-Fr 08:00-18:00; Sa 08:00-13:00
+1259172840	Utholm-Apotheke		54.3062961	8.6477643	Sankt Peter-Ording	Nordergeest	6	25826	Nov-Mar: Mo-Fr 08:00-18:30; Sa 08:00-12:30; Apr-Oct: Mo-Fr 08:00-18:30; Sa 08:00-18:00
+1274549316	Anschütz-Apotheke		54.3284427	10.2094651	Schönkirchen	Kätnersredder	83	24232	"Mo-Fr 08:00-13:00,15:00-18:30; Sa 08:00-13:00; Su off"
+1276928940	Vita Apotheke		53.8493597	10.6867209	Lübeck	Kronsforder Allee	69	23560	Mo-Fr 08:00-19:00;Sa 08:30-13:00
+1311599643	Neue Apotheke im Casinopark		53.4897156	10.2533816	Wentorf bei Hamburg	Am Casinopark	14	21465	Mo-Fr 08:30-19:00; Sa 08:30-16:00
+1313517753	Bahnhof-Apotheke		54.9078552	8.3083855	Sylt	Wilhelmstraße	7	25980	Mo-Fr 08:30-18:30; Sa 08:30-13:00
+1314370566	easyApotheke		53.8699814	10.6666255					Mo-Fr 09:00-19:00; Sa 09:00-15:00
+1318030346	Adler-Apotheke		53.6957335	9.7147354	Tornesch	Esinger Straße	3	25436	Mo-Fr 09:00-19:00; Sa 09:00-15:00; PH off
+1322391809	Godske Hansens Apotheke		54.7852955	8.8269842	Niebüll	Hauptstraße	49	25899	Mo-Fr 08:00-18:30; Sa 08:00-12:30
+1322722995	Friesenapotheke		54.7876274	8.8275578	Niebüll	Hauptstraße	35	25899	
+1324083797	Rosen-Apotheke		53.7968269	10.1418466	Nahe	Segeberger Straße	23	23866	Mo-Fr 08:00-18:30; Sa 08:00-14:00
+1330622677	Mühlen-Apotheke im a&b Center		54.0998597	9.9769505	Neumünster	Baeyerstraße	1	24536	Mo-Fr 08:00-20:00; Sa 09:00-18:00
+1333818714	Bach-Apotheke		53.6895943	9.9828418	Norderstedt	Kohfurth	15	22850	Mo-Fr 08:30-19:00; Sa 09:00-16:00; PH off
+1336620599	Louisen Apotheke		54.6265785	8.3948277	Wittdün auf Amrum	Inselstraße	19	25946	"Mo-Fr 08:30-12:30, Mo,Tu,Th,Fr 14:30-18:00, Sa 08:30-12:30"
+1336703491	Schanzen-Apotheke OHG		54.3943123	10.1751516	Kiel	An der Schanze	38	24159	"Mo-Fr 08:00-18:30, Sa 08:00-13:00"
+1341403243	Hofholz-Apotheke		54.3173332	10.0671225	Kiel	Hofholzallee	220	24109	"Mo-Fr 08:00-18:30; Sa 08:00-13:00; Su,PH off"
+1341955023	Apotheke am Wattenmeer		54.3146230	8.6071066	Sankt Peter-Ording	Im Bad	27	25826	Mo-Fr 08:30-18:30; Sa 08:30-14:00; PH off
+1357765824	DocMare-Apotheke		54.2874451	10.2192765	Schwentinental	Mergenthalerstraße	13-21	24223	Mo-Sa 08:30-20:00
+1361347674	Park-Apotheke		54.3146310	10.1740648	Kiel	Schwanenseeplatz	1	24148	"Mo,Tu 08:30-13:00,15:00-18:30, We 08:30-13:00,15:00-18:00, Th 08:30-13:00, Fr 08:30-13:00,15:00-18:00, Th 15:00-18:30, Sa 09:00-13:00"
+1364324543	Apotheke am Ziegenweg		53.7367326	9.9029613	Quickborn	Ziegenweg	4	25451	"Mo,Tu,Th 08:00-19:00; We 08:00-16:00; Fr 08:00-18:00"
+1364324544	Eulen-Apotheke am Eulenplatz		53.7317856	9.8997023	Quickborn	Am Freibad	4a	25451	"Mo-Fr 08:00-18:30, Sa 08:00-12:30"
+1366811146	West-Apotheke		54.3176373	10.1240590					Mo-Fr 8:00-18:30;Sa 8:30-13:00
+1379025013	Linden-Apotheke		53.9981694	9.2615789	Burg (Dithmarschen)	Bahnhofstraße	1	25712	"Mo,Tu,Th 08:00-13:00,14:00-18:00;We,Fr 08:00-13:00,14:00-18:00; Sa 08:30-12:30;PH off"
+1390903660	Fortuna-Apotheke		54.3471285	10.1044199					"Mo-Tu,Th-Fr 08:00-18:00; We 08:00-13:00; Sa-Su,PH off"
+1392885559	Roland-Apotheke		53.5842707	9.6966964	Wedel	Rolandstraße	6	22880	
+1399858563	Apotheke im Ärztehaus Königstraße		53.7540136	9.6564832	Elmshorn	Königstraße	12	25335	Mo-Th 08:00-18:30; We 08:00-18:00; Fr 08:00-18:00; Sa 09:00-13:00
+1418102687	Altstädter Apotheke		53.9223533	9.5182134	Itzehoe	Breite Straße	19	25524	Mo-Tu 08:30-18:00;Th-Fr 08:30-18:00;We 08:30-13:00;Sa 08:30-12:30
+1421955597	Berkenthiner Apotheke		53.7342002	10.6443893					
+1426027701	Die Königlich Privilegierte Apotheke Ahrensbök		54.0105789	10.5729432	Ahrensbök	Plöner Straße	5	23623	"Mo-Fr 07:45-18:30, Sa 7:45-12:30"
+1426027704	Lindenapotheke		54.0121366	10.5732052	Ahrensbök	Plöner Straße	28	23623	Mo-Fr 08:00-18:30; Sa 08:00-12:30
+1430225955	Nicolai-Apotheke		54.1478489	10.9608119	Grömitz	Wicheldorfstraße	20	23743	Mo-Fr 08:30-18:00; Sa 08:30-13:00
+1430418110	Apotheke in der Peterstraße		54.1359378	10.6145265	Eutin	Peterstraße	15	23701	"Mo-Fr 08:00-18:30; Tu,Th 08:00-19:00; Sa 08:00-13:00; Su,PH off"
+1430418136	Rosen-Apotheke		54.1341006	10.6152812	Eutin	Bischof-Wilhelm-Kieckbusch-Gang	12	23701	
+1446807326	Linden-Apotheke		53.6973208	9.7176886	Tornesch	Lindenweg	2	25436	Mo-Fr 08:00-18:30; Sa 08:30-12:30
+1446807327	Fasanen-Apotheke		53.6985218	9.7183321	Tornesch	Wilhelmstraße	2	25436	"Mo-Tu, Th-Fr 08:00-18:30; We 08:00-13:00; Sa 08:30-12:30"
+1485853381	Vicelin-Apotheke		54.0690845	9.9884605	Neumünster	Großflecken	72	24534	Mo-Fr 08:00-18:30; We 08:00-18:00; Sa 08:30-13:00
+1487561910	Borbyer Apotheke		54.4780686	9.8442066	Eckernförde	Prinzenstraße	5	24340	"Mo,Tu,Th,Fr 08:00-13:00,15:00-18:30; We 08:00-13:00,16:00-18:00; Sa 08:30-13:00; Su off"
+1487815464	easy-Apotheke		53.6743418	10.2371937					"Mo,Tu,Th,Fr 08:30-19:00, We 08:00-19:00, Sa 08:00-15:00"
+1509833529	Eichen Apotheke		53.6356368	9.8400039	Halstenbek	Hauptstraße	36	25469	"Mo-Fr 08:30-18:30, Sa 08:30-13:00"
+1515200279	Post-Apotheke		53.9123357	10.8043664					"Mo-Fr 08:30-13:00,14:30-18:30;Sa 08:30-13:00"
+1515200280	Post-Apotheke		53.9135707	10.8067796					"Mo-Fr 08:00-13:00,15:00-18:30;Sa 08:30-13:00"
+1547943766	Stadt Apotheke		53.7291773	10.2569267	Bargteheide	Jersbeker Straße	12	22941	Mo-Fr 08:30-18:30; Sa 08:30-13:00
+1547961035	Rathaus Apotheke		53.7298300	10.2644928	Bargteheide	Rathausstraße	11	22941	Mo-Fr 08:30-18:30; Sa 08:30-13:00; PH off
+1555270710	Birk-Apotheke		54.7458869	9.8925931	Gelting	Nordstraße	2	24395	"Mo,We,Fr 08:00-12:30,14:30-18:00; Tu,Th 08:00-12:30,14:30-19:00; Sa 08:30-13:00; Su,PH off"
+1557973972	Sonnen-Apotheke		54.8161040	9.4715517	Flensburg	Fördestraße	63	24944	"Mo-Fr 08:00-18:30; Sa 08:30-13:00; Su,PH off"
+1577032571	Kant Apotheke		53.8671875	10.7211301					Mo-Fr 08:00-19:30; Sa 08:00-18:00
+1604294280	Hansa Apotheke		54.3354593	10.1897709	Kiel	Langer Rehm	22	24149	Mo-Fr 08:00-19:00; Sa 08:00-14:00
+1614108263	Friedrichsberger Apotheke		54.5023820	9.5418890	Schleswig	Friedrichstraße	56	24837	"Mo,Tu,Th 08:00-18:30; We,Fr 08:00-18:00; Sa 08:30-12:30; Su off"
+1615419045	Philipus-Apotheke		54.3039383	10.2149505	Schwentinental	Seebrookswiese	4	24222	"Mo,Tu,Th,Fr 08:00-13:00,15:00-18:00; We 08:00-13:00"
+1615460277	Apotheke am Dorfplatz		54.3089757	10.2135900	Schwentinental	Dorfstraße	156	24222	Sa 08:00-13:00; Su off; Mo-Fr 08:00-18:30
+1642999290	Meeresstrand-Apotheke		54.0238957	10.7523939					"Mo-Fr 08:00-13:00,14:00-18:30; Sa 08:30-13:00"
+1670667818	Apotheke an der Krumbek		53.7531860	9.9173614	Ellerau	Königsberger Straße	2	25479	Mo-Fr 08:00-18:30; Sa 08:30-12:30
+1685832025	Königlich privilegierte Sonnen-Apotheke		53.9527903	9.0116351	Marne	Markt	5	25709	Mo-Fr 08:00-19:00; Sa 08:00-12:30; PH off
+1685832045	Neue Apotheke		53.9524695	9.0102068	Marne	Königstraße	1	25709	"Mo,Tu,Tu,Fr 08:00-18:30; We 08:00-18:00; Sa 08:00-12:30;PH off"
+1686134166	Krabben-Apotheke		54.0128791	8.8990739	Friedrichskoog	Koogstraße	64	25718	"Mo,Tu,Th,Fr 08:30-18:00; We 08:30-13:00;Sa 08:30-12:00;PH off"
+1696457306	Birken Apotheke		53.6587115	10.5748146	Nusse	Kirchstraße	6a	23896	"Mo-Fr 08:00-13:00,15:00-18:30; Sa 08:30-13:00"
+1725784647	Helgoland-Apotheke		53.5219515	10.2311713					Mo-Sa 08:00-20:00; Su off; PH unknown
+1744051756	Bismarck-Apotheke		54.3024059	9.6736329	Rendsburg	Bismarckstraße	12-14	24768	Mo-Fr 08:00-19:00; Sa 08:30-16:00
+1770500904	Glashütter Apotheke		53.6829748	10.0314255	Norderstedt	Tangstedter Landstraße	555	22851	Mo-Fr 08:30-18:30; Sa 08:30-12:30
+1772037511	Apotheke im Hochhaus		54.3311476	10.0848156					Mo-Fr 08:00-19:00; Sa 08:00-13:00
+1783911817	Insel-Apotheke		54.1826739	7.8871077	Helgoland	Steanaker	359	27498	"Mo-Fr 09:00-12:00; Sa 10:00-12:00; Mo,Tu,Th 15:00-18:00; Fr-Sa 15:00-17:00"
+1785838302	Sonnen-Apotheke		53.6578006	9.8074735	Pinneberg	Waldstraße	5	25421	Mo-Fr 08:00-18:30; Sa 08:00-13:00
+1796291247	kielgesund Apotheke in der Wik		54.3605010	10.1339345		Prinz-Heinrich-Straße	20	24106	Mo-Sa 08:00-21:00
+1801829430	Flora-Friesland-Apotheke		54.7849666	8.8238954	Niebüll	Marktstraße	27	25899	Mo-Fr 08:00-18:30;Sa 08:00-12:30
+1802246654	Förde-Apotheke		54.8069312	9.4597272	Flensburg	Mürwiker Straße	162	24944	
+1805035977	Annen-Apotheke		54.3862407	10.1329624	Altenholz	Ostpreußenplatz	2	24161	"Mo,Tu,Th 08:00-13:00,15:00-18:30; Fr 08:00-18:30; We,Sa 08:00-13:00"
+1827322829	Privilegierte Apotheke		53.8304785	10.4827623	Reinfeld	Klosterstraße	5	23858	"Mo 08:00-13:00,14:00-18:00; Tu 08:00-13:00,14:00-18:00; We 08:00-13:00; Th 08:00-13:00,14:00-18:00; Fr 08:00-13:00,14:00-18:00; PH off"
+1832475202	Stern-Apotheke		54.7944173	9.4718629	Flensburg	Engelsbyer Straße	53	24943	"Mo-Fr 08:00-18:30; Sa 08:00-13:00; Su,PH off"
+1874137600	See-Apotheke		53.6165794	9.8667585	Halstenbek	Seestraße	252	25469	Mo-Fr 08:30-18:30; Sa 08:30-13:00; PH off
+1935192676	Apotheke am Rathaus		54.2838046	10.2408769	Schwentinental	Zum See	2	24223	
+1950030226	Schwan Apotheke		54.0746870	9.9831132	Neumünster	Kuhberg	28	24534	"Mo,Tu,Th,Fr 08:00-18:30; We 08:00-18:00; Sa 09:00-14:00"
+1959103904	Finken-Apotheke		54.2938481	10.5898701	Lütjenburg	Teichtorstraße	3	24321	"Mo-Th 08:00-18:30, Fr 08:00-18:00, Sa 08:00-13:00, Su off"
+1966456258	Fital Apotheke		54.2941628	10.5855775	Lütjenburg	Posthofstraße	4	24321	"Mo-Fr 08:00-20:00, Sa 08:00-19:00, Su off"
+2036473836	Vorstadt Apotheke		53.6941332	10.7865791	Ratzeburg	Schweriner Straße	51	23909	Mo-Fr 08:00-19:00; Sa 08:00-14:00
+2058310331	Apotheke am U-Bahnhof		53.6625038	10.2852846	Großhansdorf	Eilbergweg	9	22927	Mo-Fr 08:30-18:30; Sa 08:30-13:00
+2063152884	Schloss-Apotheke		53.6767933	10.2398525					"Mo,Tu,Th,Fr 08:00-18:30; We 08:00-12:00; Sa 09:00-13:00"
+2071573073	Sankt Georg Apotheke		54.1945638	9.0957178	Heide	Friedrichstraße	14	25746	Mo-Fr 08:00-18:30; Sa 08:00-14:00
+2119594907	Apotheke in Jübek		54.5572398	9.3997746	Jübek	Große Straße	34	24855	
+2129726562	Apotheke am Kaufhof		53.8643333	10.7217679					Mo-Fr 08:00-18:30; Sa 09:00-13:30; PH off
+2129726702	apo-rot Adler-Apotheke		53.8640036	10.7196445					Mo-Fr 08:30-19:00; Sa 09:00-14:00
+2130572838	Brunnenapotheke		53.6484292	9.8299971	Rellingen	Hauptstraße	25	25462	"Mo,Th 08:00-19:00, Tu,We,Fr 08:00-18:30, Sa 08:30-12:30"
+2175159527	Apotheke am Kaufhof		53.8647738	10.7189224					Mo-Fr 08:00-18:30; Sa 09:00-13:30; PH off
+2187345474	Privilegierte Apotheke Am Wedenkamp		53.7511388	9.6477570	Elmshorn	Wedenkamp	9b	25335	Mo-Sa 08:00-20:00; PH off
+2211566510	Park-Apotheke		54.3150131	9.6713003	Büdelsdorf	Parkallee	7	24782	"Mo-Fr 08:30-13:00,14:30-18:30; Sa 08:30-13:00"
+2214656094	Burg-Apotheke		54.4422878	11.1795188	Fehmarn	Mummendorfer Weg	3	23769	"Mo-Fr 08:30-18:30; Sa 08:30-13:00; Su,PH off"
+2219596489	Hafen-Apotheke		54.6905372	8.5714620	Wyk auf Föhr	Hafenstraße	42	25938	"Mo-Fr 08:30-13:00,14:30-18:00; We 14:30-18:00 off, Sa 09:00-12:30"
+2219633272	Kur-Apotheke		54.6874363	8.5693643	Wyk auf Föhr	Sandwall	42	25938	"Mo-Fr 08:30-12:30,14:00-18:00; We 08:30-12:30; Sa 09:00-12:30"
+2231876274	Alte Apotheke		53.9365481	10.3090534	Bad Segeberg	Kirchstraße	31	23795	Mo-Fr 08:00-18:30; Sa 08:00-14:00
+2244432045	Lübbers Apotheke im MediCo		53.8869859	10.6492950	Stockelsdorf	Segeberger Straße	16-22	23617	Mo-Fr 08:00-19:00; Sa 08:30-14:00
+2314255689	Aesculap Apotheke		54.0743325	9.9842897	Neumünster	Kuhberg	43	24534	Mo-Fr 08:00-19:00; Sa 09:00-14:00
+2318223582	Einhorn Apotheke		54.1860383	10.7631368	Schönwalde am Bungsberg	Oldenburger Straße	19	23744	"Mo,Tu,Th 08:00-13:00,14:00-18:30; We 08:00-12:00; Fr 08:00-13:00,14:00-18:00, Sa 08:00-12:00"
+2344312209	staggenborg die apotheke		54.4951283	9.0840141	Husum	Andreas-Clausen-Straße	2	25813	Mo-Sa 08:00-20:00
+2349064351	Löwen-Apotheke		54.1949929	9.0909590	Heide	Markt	45	25746	"Mo,Tu,We,Fr 08:00-18:30;Th 08:00-19:00,Sa 08:00-13:00; PH off"
+2360033072	Fürst Bismarck-Apotheke		53.5093005	10.2512711	Reinbek	Bahnhofstraße	15	21465	"Mo-Fr 08:30-18:30, Sa 09:00-13:00; PH off"
+2360039997	Sachsenwald-Apotheke		53.5103774	10.2515765	Reinbek	Hamburger Straße	2	21465	Mo-Fr 08:30-18:30; Sa 08:30-12:30
+2404897520	Katharinenapotheke		54.2202305	10.8857064	Lensahn	Eutiner Straße	5	23738	"Mo,Tu,Th 08:00-13:00,14:00-18:30; Fr 08:00-13:00,14:00-18:00; We,Sa 08:00-12:30"
+2404969851	Linden-Apotheke		54.2194497	10.8879329	Lensahn	Bäderstraße	12	23738	"Mo,Tu,Th,Fr 08:00-12:30,14:00-18:00; We,Sa 08:00-12:00"
+2408087779	Linden Apotheke		54.2902726	10.4265661		Kieler Straße	9	24238	
+2422246308	Brunnen-Apotheke		54.3063222	9.6016537	Fockbek	Rendsburger Straße	50a	24787	Mo-Fr 08:30-18:30; Sa 08:30-13:00
+2430792022	Ulex-Apotheke		54.3418008	10.0918534					"Mo-Tu 08:00-13:30,14:30-18:30; We 08:00-13:30,14:30-18:00; Th-Fr 08:00-13:30,14:30-18:30; Sa 08:00-13:00"
+2453038415	Apotheke Tellingstedt		54.2196096	9.2778785	Tellingstedt	Hauptstraße	6	25782	"Mo,Th 08:00-18:30; Tu,We,Fr 08:00-18:00; Sa 08:00-12:30"
+2481875791	Parkcenter-Apotheke		54.0757422	9.9863496	Neumünster	Christianstraße	20	24534	"Mo-Th 08:00-18:30; We,Fr 08:00-18:00; Sa 09:00-13:00"
+2498147230	Flora-Apotheke		53.6590314	9.8077993	Pinneberg	Damm	49	25421	"Mo-Tu,Th 08:00-19:00; We,Fr 08:00-18:30; Sa 08:30-14:00"
+2514462686	Wagrien-Apotheke		54.2904061	10.8807508	Oldenburg in Holstein	Mühlenkamp	5	23758	Mo-Fr 08:00-18:00; Sa 08:30-13:00
+2534828877	Kronen Apotheke		54.3289094	10.1339709	Kiel	Dreiecksplatz	5	24105	Mo-Fr 08:00-18:30; Sa 08:30-14:00
+2568875087	Medio Apotheke im famila		53.8297167	9.9809548	Kaltenkirchen	Kisdorfer Weg	11	24568	Mo-Sa 8:00-21:00; PH off
+2612100560	Dr. Scheel´s Apotheke		53.8970434	9.1369345	Brunsbüttel	Koogstraße	43	25541	Mo-Fr 08:00-19:00; Sa 08:00-13:00;PH off
+2628275596	Kalkberg-Apotheke		53.9354058	10.3105607	Bad Segeberg	Oldesloer Straße	11	23795	Sa 08:00-13:00; Mo-Fr 08:00-18:00
+2632127693	Stadt-Apotheke		53.9514224	10.2084446					
+2717395803	Prinzen Apotheke		54.1590963	10.4316116	Plön	Eutiner Straße	17-18	24306	
+2776840823	Sonnen-Apotheke		53.4365121	10.3689004	Geesthacht	Bergedorfer Straße	58-62	21502	Mo-Th 08:00-19:30; We 08:00-18:00; Fr 08:00-18:30; Sa 08:00-13:30
+2795213707	Klindwort Apotheke		53.9122973	10.7317181					Mo-Sa 09:00-20:00
+2810133162	Markt-Apotheke		53.8098120	10.3728749					
+2866568451	Schwentine-Apotheke		54.3259570	10.1861423	Kiel	Schönberger Straße	11	24148	"Mo,Tu,Th,Fr 08:00-18:30; We 08:00-18:00; Sa 08:00-12:30; Su off"
+2911880533	Krückau-Apotheke		53.7554509	9.6640664	Elmshorn	Mühlendamm	12	25335	
+2955556531	apo-rot Vita Apotheke + Sanitätshaus		53.7545316	9.6520836	Elmshorn	Schulstraße	52	25335	
+2955756250	Markt-Apotheke		53.7522596	9.6530539	Elmshorn	Wedenkamp	22b	25335	Mo-Fr 08:30-18:00; Sa 09:00-14:00
+3009464013	Löwen-Apotheke		54.0731732	9.9825431	Neumünster	Am Teich	9	24534	"Mo-Th 08:00-13:00,14:30-18:30; We 08:00-13:00; Fr 08:00-18:30; Sa 09:00-12:30"
+3039436309	Brücken-Apotheke		53.9299679	9.4686137	Heiligenstedten	Brückenstraße	5	25524	"Mo,Th 08:30-18:30; Tu,Fr 08:30-18:00; We 08:30-13:00; Sa 08:00-12:00"
+3048509541	Apotheke Am Billenkamp		53.5263196	10.3043381					
+3048509550	Apotheke Aumühle		53.5263393	10.3060525	Aumühle	Hofriedeallee	22	21521	Mo-Fr 08:00-19:00;Sa 08:00-13:00
+3050868406	Warder-Apotheke		54.3727854	10.9794098	Heiligenhafen	Kirchenstraße	1	23774	"Mo-Fr 08:00-18:30; Sa 08:00-13:00; Jun-Sep Sa 08:00-14:00; PH,Su off"
+3054397311	Immenhof-Apotheke		53.6939464	10.0274278	Norderstedt	Poppenbütteler Straße	172	22851	
+3110643479	Landhaus-Apotheke		53.9254800	9.5147606	Itzehoe	Feldschmiede	61	25524	Mo-Fr 08:00-18:30; Sa 08:00-14:00
+3138435821	Vitalhus. Die Apotheke		53.7093963	10.0180666	Norderstedt	Stormarnstraße	33-41	22844	Mo-Fr 08:00-20:00; Sa 08:00-18:00; PH off
+3193700989	Markt-Apotheke		53.6996834	10.7736639	Ratzeburg	Rathausstraße	1	23909	"Mo-Fr 08:00-18:30, Sa 08:30-13:00"
+3193780778	Koog-Apotheke		53.8964621	9.1395312	Brunsbüttel	Koogstraße	70	25541	"Mo-Fr 08:00-12:30,14:00-18:30; Sa 08:00-12:30;PH off"
+3217711474	easyApotheke		53.8047587	9.9802096	Henstedt-Ulzburg	Gutenbergstraße	4	24558	Mo-Sa 08:00-20:00
+3219328222	Apotheke in Raisdorf		54.2821417	10.2412209					Mo-Fr 08:00-18:30;Sa 08:00-13:00
+3231342199	Elsdorfer-Apotheke		54.2585814	9.5263827	Elsdorf-Westermühlen	Dorfstraße	29	24800	"Mo-Fr 08:00-13:00, Mo,Th 15:00-19:00, Tu,Fr 15:00-18:00; Sa 09:00-12:00"
+3248392177	Scandia-Apotheke		53.6819054	9.9875820	Norderstedt	Ochsenzoller Straße	147	22848	"Mo-Fr 09:00-18:30; Sa 09:00-13:00; PH,Su off"
+3265102085	Land-Apotheke		54.6665837	9.3941217	Tarp	Wanderuper Straße	13	24963	"Mo-Fr 08:30-18:30; Sa 09:00-13:00; Su,PH off"
+3265265486	Moorbek Apotheke		53.7072069	9.9892180	Norderstedt	Rathausallee	35/39	22846	Mo-Fr 08:30-19:00; Sa 09:00-16:00
+3267133155	Neptun-Apotheke		54.3216868	10.1292350					"Mo-Fr 08:00-18:00, Sa 08:00-13:00"
+3301111867	Kloster-Apotheke		53.5110109	10.2347454	Reinbek	Am Ladenzentrum	4	21465	Mo-Fr 08:30-19:00; Sa 08:00-13:00
+3322671595	Donn-Apotheke		53.9878367	9.1143105	Sankt Michaelisdonn	Johannßenstraße	2	25693	"Mo,Th 08:00-12:00,14:00-18:30; Tu,We,Fr 08:00-12:00,14:00-18:00; Sa 08:00-12:00;PH off"
+3322991663	Adler-Apotheke		53.9316583	9.5047738	Itzehoe	Lindenstraße	77	25524	Mo-Fr 08:00-18:00; Sa 08:00-13:00
+3323026609	Privilegierte Stadtapotheke		54.0899163	9.0713631	Meldorf	Südermarkt	8	25704	Mo-Fr 08:00-18:00; Sa 08:00-12:00;PH off
+3323026610	Zingelapotheke		54.0892493	9.0781505	Meldorf	Zingelstraße	43	25704	"Mo-Th 08:00-12:30,14:00-18:00; Fr 08:00-12:30; Sa 08:00-12:15;PH off"
+3323026611	Öster-Apotheke		54.0892979	9.0844845	Meldorf	Österstraße	27	25704	"Mo-Fr 08:00-13:00,14:00-18:30; Sa 09:00-12:00;PH off"
+3323057878	Rungholt Apotheke&Sanitätshaus		54.1884186	9.0907015	Heide	Meldorfer Straße	69-71	25746	Mo-Fr 07:30-18:30; Sa 08:30-13:00
+3323096668	Linden-Apotheke		53.9288687	9.5106484	Itzehoe	Lindenstraße	22	25524	Mo-Fr 08:00-18:30; Sa 08:00-13:00
+3323578778	Königlich-Privilegierte Apotheke		54.3319322	9.0228265	Lunden	Wilhelmstraße	86	25774	
+3324755264	Viktoria Apotheke		53.9235059	9.5166370	Itzehoe	Kirchenstraße	23a	25524	Mo-Fr 08:00-19:00; Sa 09:00-16:00
+3325771280	Elisabeth-Apotheke		53.9621514	9.6190653	Hohenlockstedt	Kieler Straße	53	25551	"Mo-Fr 08:00-12:30,14:30-18:30; Sa 08:00-12:00"
+3327468519	Hirsch-Apotheke		54.3966590	10.1724250	Kiel	Friedrichsorter Straße	10	24159	Mo-Fr 08:00-18:30; Sa 08:00-13:00
+3327735843	Hubertus-Apotheke		53.6826109	9.9803841	Norderstedt	Achternfelde	4	22850	"Mo-Fr 08:15-13:00,14:00-18:30; Sa 09:00-13:00"
+3334269822	Nordland-Apotheke		54.4799196	9.0566485					Mo-Fr 08:00-18:30; Sa 09:00-13:00
+3334269825	Wolfs Apotheke		54.6184223	8.9644916	Bredstedt	Markt	28	25821	Mo-Fr 08:00-18:30; We 08:00-18:00; Sa 08:00-12:30
+3334870012	Erlen-Apotheke		53.6381190	9.8958868	Ellerbek	Moordamm	2	25474	"Mo-Fr 08:00-13:00,14:30-18:00; Sa 08:00-12:00"
+3336441244	Eider-Apotheke		54.2840593	9.1703655	Hennstedt	Tellingstedter Straße	3a	25779	"Mo-Fr 08:00-12:00,14:00-18:00; We,Sa 08:00-12:00"
+3336492328	Bahnhof-Apotheke		53.7312363	9.9040587	Quickborn	Bahnhofstraße	98	25451	Mo-Fr 08:00-19:00; Sa 08:00-14:00
+3336507209	Goethe Apotheke		53.7270862	9.9142614	Quickborn	Harksheider Weg	99	25451	Mo-Fr 08:00-18:30; Sa 08:00-13:00
+3340194381	Grenz-Apotheke		54.8713154	8.9072176	Süderlügum	Hauptstraße	20	25923	
+3340194383	Sonnen-Apotheke		54.7729782	8.9738857	Leck	Kirchhofstraße	3	25917	"Mo-Th 07:45-19:00; We,Fr 07:45-18:30; Sa 07:45-13:00"
+3341128736	Berg Apotheke		54.0468059	9.4830302	Schenefeld	Am Markt	3	25560	"Mo-Fr 08:00-12:30,14:00-18:00; Sa 08:00-12:30"
+3341807995	Posthorn-Apotheke		53.8821251	9.4781266	Kremperheide	Ostlandring	2	25569	"Mo-Fr 08:30-12:30,14:30-18:00; We 08:30-12:30; Sa 08:30-12:00"
+3341807996	Raphael-Apotheke		53.8532880	9.6863317	Westerhorn	Bahnhofstraße	53	25364	"Mo-Fr 08:30-12:30,14:00-18:00; Tu,Th 08:30-12:30,14:00-18:30; Sa 09:00-12:00"
+3341981696	Hanseaten-Apotheke		53.9315422	9.5249754	Itzehoe	Hanseaten-Platz	1	25524	"Mo-Fr 08:00-18:30; Tu,Th 08:00-18:00; Sa 08:00-13:00"
+3342186447	Reiter-Apotheke am Hogenkamp		53.7455009	9.6596553	Elmshorn	Ansgarstraße	31	25336	Mo-Th 07:15-19:00;Fr 07:15-18:00;Sa 09:00-12:30
+3342365188	Sylt Apotheke 2.0		54.9031441	8.3105698	Sylt	Tinnumer Straße	5	25980	
+3343162816	Holsten-Apotheke		53.6596161	9.7432990	Appen	Hauptstraße	59	25482	"Mo-Fr 08:00-13:00,14:00-18:30; Th 08:00-13:00,14:00-19:00; Sa 08:00-12:30; PH off"
+3348635827	Alster-Apotheke		53.7673172	10.1864559	Bargfeld-Stegen	Mittelweg	7	23863	"Mo-Sa 08:00-12:00; Mo,Tu,Th,Fr 14:00-18:00"
+3351626073	Rathaus-Apotheke		54.0894924	9.6512180	Hohenwestedt	Am Markt	13	24594	"Mo-Fr 08:30-13:00,14:00-18:00; Sa 08:30-12:30"
+3352389658	Engel-Apotheke		53.6826943	9.6564172	Uetersen	Rathausstraße	6	25436	"Mo-Fr 08:00-13:00,14:00-18:30; Sa 08:30-12:30"
+3353572744	Apotheke beim Rathaus		53.6005434	9.8357974	Schenefeld	Holstenplatz	6	22869	Mo-Fr 08:30-18:30; Sa 09:00-13:00
+3353905051	Eider-Apotheke		54.3161796	9.6792227	Büdelsdorf	Hollerstraße	101	24782	Mo-Fr 08:00-18:30; Sa 08:00-13:00
+3353971417	Apotheke Westerrönfeld		54.2828928	9.6505877	Westerrönfeld	Am Glockenturm	8	24784	Mo 08:00-19:00; Tu-Th 08:00-18:30; Fr 08:30-13:00
+3355463099	Alte Rats-Apotheke		54.0705402	9.9880281	Neumünster	Großflecken	55	24534	"Mo-Th 08:00-18:30; We,Fr 08:00-18:00; Sa 09:00-13:00"
+3355463100	Delphin-Apotheke		54.0986683	9.9959686	Neumünster	Hürsland	96	24536	Mo-Fr 08:00-18:30; Sa 08:00-13:00; PH off
+3355463101	Markt Apotheke		54.0708910	9.9833702	Neumünster	Kleinflecken	35	24534	Mo-Fr 08:00-18:00; Sa 08:30-13:00
+3355463102	Mühlen-Apotheke Stadt		54.0713185	9.9856901	Neumünster	Mühlenbrücke	5-7	24534	Mo-Fr 08:00-18:30; Sa 09:00-14:00
+3355463103	Stadt Apotheke		54.0719858	9.9857689	Neumünster	Großflecken	20	24534	Mo-Fr 08:00-19:00; Sa 08:30-16:00
+3355795144	impuls apotheke		54.3155509	10.1306552	Kiel	Sophienblatt	36	24103	"Mo-Fr 08:30-19:00; Sa 09:00-16:00; Su,PH off"
+3359963693	Rats-Apotheke		53.4914731	10.2526748	Wentorf bei Hamburg	Hauptstraße	2	21465	"Mo-Fr 08:00-18:30; Tu,Th 08:00-19:00; Sa 08:00-13:30"
+3376865394	Ansgar-Apotheke		54.3346960	10.1329480		Holtenauer Straße	77	24105	"Mo-Fr 08:00-19:00; Sa 09:00-16:00; Su,PH off"
+3376933474	Storchen-Apotheke		54.3337826	10.1287295	Kiel	Knooper Weg	133	24118	"Mo,Tu,Th,Fr 08:00-13:00,15:00-18:00; We,Sa 08:00-13:00"
+3389480479	Die Landapotheke		53.8996689	10.0617274	Hartenholm	Dorfstraße	21a	24628	"Mo-Tu 08:00-12:30, 14:30-18:00; We 08:00-12:30; Th-Fr 08:00-12:30, 14:30-18:00; Sa 09:00-12:00; PH off"
+3476487261	Claudius Apotheke		53.8215373	10.5011918	Reinfeld	Barnitzer Straße	1-7	23858	Mo-Fr 08:00-20:00; Sa 08:00-18:00
+3502880032	Widder-Apotheke		53.6711176	9.6753699	Moorrege	Wedeler Chaussee	43a	25436	Mo-Fr 08:00-19:00; Sa08:00-14:00; PH off
+3612293792	Friesen-Apotheke		54.1719429	10.5554078	Malente	Bahnhofstraße	37-39	23714	
+3651353903	Stadt-Apotheke		53.3740332	10.5511265	Lauenburg/Elbe	Hamburger Straße	28	21481	Mo-Fr 08:00-18:30; Sa 08:00-12:30
+3669318780	Apotheke am Kantplatz		54.0771158	9.9604194	Neumünster	Max-Richter-Straße	12a	24537	"Mo-Fr 08:00-18:30; Sa 08:00-13:00; Su,PH off"
+3689981205	Esmarch-Apotheke am WKK		54.1987565	9.0805231	Heide	Esmarchstraße	51-53	25746	Mo-Fr 07:30-19:00; Sa 07:30-16:00; PH off
+3761179356	Schwansen-Apotheke Rezeptsammelstelle		54.5834250	10.0214294					
+3804928118	Flora-Apotheke		54.1723538	10.5558324	Malente	Bahnhofstraße	45	23714	
+3815562727	Nord-Apotheke		54.8000834	9.4232554	Flensburg	Apenrader Straße	4	24939	"Mo,Tu,Th,Fr 08:00-18:30; We 08:00-18:00; Sa 08:30-13:00; Su,PH off"
+3823477437	Nautilus Apotheke		54.3227120	10.1385965					"Mo-Fr 08:00-18:30; Sa 10:00-18:00; Su, PH off"
+3878582653	Stadt-Apotheke		54.1678061	9.8547485	Nortorf	Bahnhofstraße	2	24589	
+3893535857	wir leben - Apotheke am Buntenskamp		53.4335970	10.3730617	Geesthacht	Buntenskamp	5a	21502	
+3993198643	Ostsee-Apotheke		54.8345960	9.5484623	Glücksburg	Rathausstraße	3	24960	
+4021078812	Dom Apotheke		53.7000174	10.7746462	Ratzeburg	Domstraße	5	23909	Mo-Fr 08:00-18:30
+4184013410	Condor Apotheke		54.3726688	10.1369071					Mo-Fr 08:30-18:00; Sa 08:30-13:00
+4366820677	Apotheke am Böckler Platz		53.5706985	9.7144184					"Mo-Th 08:00-13:00,14:00-18:30; Fr 08:00-13:30,14:00-18:30; Sa 08:30-12:30"
+4380248692	Apotheke im Herold-Center		53.6844785	9.9862704	Norderstedt	Berliner Allee	38-44a	22850	Mo-Fr 08:30-20:00; Sa 09:00-20:00
+4388868547	alphapoint Apotheke Barsbüttel		53.5667307	10.1638437	Barsbüttel	Am AKKU	9	22885	
+4518080655	CMP-Apotheke		54.3114276	10.1460043	Kiel	Elisabethstraße	68a	24143	"Mo-Fr 09:00-13:30,14:00-16:00; Sa 09:00-13:00"
+4590712243	Hansa-Apotheke		54.0715687	9.9755065	Neumünster	Wasbeker Straße	50	24534	Mo-Fr 08:00-18:00; Sa 08:00-13:00
+4709664746	Adler-Apotheke		54.3762794	9.0878749	Friedrichstadt	Am Markt	19	25840	"Mo-Fr 08:00-13:00,14:00-18:30; Sa 08:30-12:30; Su off"
+4720694184	Center-Apotheke		54.0809492	9.9948813	Neumünster	Goethestraße	13	24534	Mo-Sa 08:00-20:00; PH off
+4742934415	Park-Apotheke Husum		54.4831554	9.0514554					Mo-Fr 08:00-18:00; Sa 08:00-12:30
+4811891638	Birkland-Apotheke		54.8065578	9.5149159	Wees	Birkland	2	24999	"Mo 08:30-19:00; Tu-Fr 08:30-18:30; Sa 08:30-13:00; Su,PH off"
+5077859121	Rufer-Apotheke		53.3736260	10.5558422	Lauenburg/Elbe	Alte Wache	12	21481	Mo-Fr 07:45-18:30; Sa 08:00-13:00
+5205042740	Nautilus Apotheke		53.3754598	10.5505040	Lauenburg/Elbe	Am Schüsselteich	11	21481	
+5248667544	Apotheke am Andreas-Hofer-Platz		54.2986290	10.1826660	Kiel	Andreas-Hofer-Platz	10	24147	
+5368373110	Löwen Apotheke		53.9372046	10.3075350					
+5520906425	Brunnen Apotheke im Teldec-Park		54.1701230	9.8536249					Mo-Fr 08:00-18:30;Sa 08:00-13:00
+5763616194	City Apotheke		54.0710239	9.9884825	Neumünster	Großflecken	51-53	24534	"Mo,Tu,Th 08:00-18:30; We,Fr 08:00-18:00; Sa 09:00-14:00; PH off"
+5914399187	Rathaus-Apotheke		53.5033272	10.4775981					
+6082775616	AVIE Center Apotheke		54.0141632	10.0157306	Boostedt	Neumünsterstraße	51	24598	"Mo-Sa 09:00-13:00, Mo-Fr 14:00-18:00"
+6123841334	Stapelholmer Apotheke		54.3484675	9.2206085	Stapel	Vogteistraße	5	25879	"Mo, Tu, Th, Fr 08:00-12:00, 14:00-18:00; We 08:00-12:00; Sa 09:00-12:00; Su,PH off"
+6137842424	Apotheke Silberstedt		54.5154529	9.3746120	Silberstedt	An't Dokterhuus	3	24887	"Mo,Tu,Th,Fr 07:30-18:30; We 07:30-13:00; Sa 09:00-12:00; PH,Su off"
+6167788031	Paracelsus Apotheke		54.1283019	9.9919690	Neumünster	Dorfstraße	20	24536	Mo-Fr 08:00-18:30; Sa 08:00-13:00
+6190526321	Baltic Apotheke		54.3255544	10.1792223	Kiel	Am Seefischmarkt	1	24148	"Mo,Tu,Th 08:00-19:00; We,Fr 08:00-18:00; Sa 08:30-13:00; PH,Su off"
+6293162342	Anker-Apotheke		54.3931648	9.5924015	Owschlag	Bahnhofstraße	13	24811	"Mo,Tu,Th,Fr 08:00-13:00,14:00-18:30; We 08:00-13:00,14:00-18:00; Sa 08:00-12:00; Su,PH off"
+6426712938	Dalbek Apotheke Börnsen		53.4858567	10.2871057	Börnsen	Beim Sachsenwald	2	21039	
+6450447964	Apotheke St. Michael		54.7726524	9.3964904					"Mo-Fr 08:00-20:00; Sa 09:00-20:00; Su,PH off"
+6463730450	asana Apotheke		54.8153742	9.4707635	Flensburg	Fördestraße	72	24944	"Mo-Fr 08:00-19:00; Sa 08:00-14:00; Su,PH off"
+6486297520			54.1303807	10.5804333					
+7246813897	7.0 Die Grüne Apotheke		53.8630800	10.6865224					
+7319229885	Stadtapotheke		54.3721437	10.9818904	Heiligenhafen	Thulboden	38	23774	"Mo,Tu,Th 08:00-18:30; We,Fr 08:00-18:00; Sa 08:00-12:30; PH off"
+7319229896	Post-Apotheke		54.4402871	11.1943467	Fehmarn	Bahnhofstraße	28	23769	"Mo-Fr 08:00-18:30; Sa 08:30-13:00; Su,PH off"
+7597712521	Eider Apotheke		54.2400377	10.0612309					Mo-Fr 08:00-19:00; Sa 08:00-16:00
+8071920806	Holsten-Apotheke		54.3381303	10.2187416	Schönkirchen	Pahlblöken	2a	24232	
+8443187109	Apotheke Waldenau		53.6211905	9.7941060	Pinneberg	Waldenauer Marktplatz	9	25421	"Mo,Tu,Th,Fr 08:00-13:00,14:00-18:30, We,Sa 08:00-13:30"
+8785325490			54.3254866	9.6943903					
+8814574071	Wittensee-Apotheke		54.4063273	9.7693951					"Mo-Fr 08:00-13:00, Mo 15:00-18:30, Tu 15:00-18:30, Th 15:00-19:00, Fr 15:00-18:30, Sa 09:00-13:00"
+9011003310	Wagrien-Apotheke		54.2198778	10.8838696	Lensahn	Eutiner Straße	8-10	23738	"Mo-Th 08:00-13:00,14:30-19:00; Fr 08:00-13:00,14:30-18:00; Sa 08:00-12:30; Su, TH off"
+9142946668	Apotheke Aukrug		54.0819561	9.7849755	Aukrug	Am Raiffeisenturm	1d	24613	"Mo-Fr 08:00-12:00,14:00-18:00; Sa 08:30-12:00"
+9481268704	Viktoria Apotheke		53.9232437	9.5163719	Itzehoe	Viktoriastraße	6	25524	
+9550580942	Beimoor Apotheke		53.6790947	10.2588661					Mo-Fr 08:00-20:00; Sa 08:00-18:00
+9703819215	Apotheke Brokstedt		53.9933192	9.8217135	Brokstedt	Dörnbek	34	24616	
+10227758735	Sund Apotheke		54.3664436	11.0049373	Heiligenhafen	Tollbrettkoppel	14	23774	
+10610662401	Nord Apotheke		54.2986866	10.8969428					"Mo-Fr 08:00-13:00;14:30-18:00; We 08:00-13:00; Sa,Su,PH off"
+10745355889	Vita Apotheke		53.6612541	9.8001237					Mo-Fr 09:00-18:00; Sa 09:30-13:30
+10834284925	Apotheke Eutin		54.1270385	10.6228337	Eutin	Industriestraße	5a	23701	
+58401356			54.5255329	9.0266039	Hattstedt	Bundesstraße	15	25856	
+84037912	Reiter-Apotheke im Pferdeviertel		53.7438890	9.6557378	Elmshorn	Eichstraße	34	25336	Mo-Fr 08:00-18:30; Sa 08:00-12:30
+95402462	Neue Apotheke		53.8363624	9.4881019	Krempe	Breite Straße	52	25361	"Mo-Fr 08:30-12:00,14:00-18:30; We 08:30-12:30; Sa 08:30-12:00"
+112889030	Hirsch Apotheke		53.5519366	10.2503220	Reinbek	Möllner Landstraße	3	21465	Mo-Fr 08:30-18:30; Sa 08:30-12:30
+121174928	Süd-Apotheke		53.7707069	9.9837029	Henstedt-Ulzburg	Dammstücken	43	24558	Mo-Fr 08:00-19:00; Sa 08:00-14:00
+122975207	Sonnen-Apotheke		54.0283699	10.7557861	Scharbeutz	Strandallee	128	23683	"Mo-Fr 08:00-13:00,14:00-18:30; Sa 08:30-13:00"
+129200188	Tannenberg-Apotheke		54.3565605	10.1156171	Kiel	Gurlittstraße	12	24106	"Mo-Fr 08:00-13:00,15:00-18:30; Sa 09:00-13:00; PH off"
+150376248	Schloss-Apotheke		54.8336711	9.5481380	Glücksburg	Bahnhofstraße	3	24960	Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su off
+165535976	Kgl. priv. Apotheke		54.6915142	9.6031001	Mittelangeln	Schleswiger Straße	1	24986	Mo 08:00-19:00; Tu 08:00-20:00; We 08:00-18:30; Th 08:00-20:00; Fr 08:00-19:00; Sa 08:00-13:00
+175606295	Mühlen-Apotheke		54.0534990	9.9704459	Neumünster	Mühlenstraße	23	24539	Mo-Fr 08:00-18:30; Sa 08:00-13:00;PH closed
+183474099	Linden-Apotheke		54.6049813	8.9832439	Breklum	Parkweg	10	25821	"Mo,Tu,Th 08:00-18:30; We,Fr 08:00-18:00; Sa 08:00-12:30"
+194462110	Friedheim-Apotheke		54.8153396	9.4730755	Flensburg	Marrensdamm	12	24944	Mo-Fr 08:00-19:30; Sa 08:00-13:30
+198141469	Arlau-Apotheke		54.5688070	9.1748891	Viöl	Westerende	44	25884	
+199341033	Schwan-Apotheke		54.4772766	9.0503992	Husum	Großstraße	21	25813	"Mo-Th 08:00-18:30; We,Fr 08:00-18:00; Sa 09:00-14:00"
+203514153	Böttcher Apotheke		54.0909339	9.6517817	Hohenwestedt	Lindenstraße	22	24594	Mo-Fr 08:00-18:30; Sa 08:00-12:30
+206159256	Alte Stadt-Apotheke		54.1078537	10.8153991		Am Markt	2		Mo-Fr 08:00-18:00; Sa 08:30-13:00
+213843054			54.1361168	10.6135973	Eutin	Peterstraße	30	23701	
+217122124	Elbe-Apotheke		53.4335039	10.3720602	Geesthacht	Bergedorfer Straße	29	21502	Mo-Fr 08:00-18:30; Tu 08:00-19:00; Sa 08:00-12:00
+217527457	Stadt-Apotheke		53.4315649	10.3758259	Geesthacht	Rathausstraße	8	21502	"Mo,Tu,Th,Fr 08:00-18:30; We 08:00-13:00; Sa 09:00-13:00"
+230102743	Möwen-Apotheke		54.6348786	9.7732126	Süderbrarup	Große Straße	10	24392	"Mo-Fr 08:00-12:30,14:00-18:30; Sa 08:00-12:30; Su,PH off"
+240261455	Fockbeker Apotheke		54.3081815	9.6083488	Fockbek	Rendsburger Straße	19	24787	Mo-Fr 08:00-18:30; Sa 08:30-13:00
+261885015	Flora-Apotheke		53.9650974	9.6225932	Hohenlockstedt	Kieler Straße	86	25551	
+325970921	Sonnen-Apotheke		53.8830047	9.5749024	Lägerdorf	Dorfstraße	28	25566	"Mo 08:30-12:15,14:00-18:30; Tu-We 08:30-12:15,14:00-18:00; Th 08:30-12:15,14:00-18:30; Fr 08:30-12:15,14:00-18:00; Sa 08:30-12:00"
+375140704	Einhorn-Apotheke		54.3977434	9.1823204	Schwabstedt	Schloßstraße	12	25876	"We 08:00-12:00; Fr 08:00-12:30,14:30-18:00; Sa 08:00-12:00; Mo,Tu,Th 08:00-12:30,14:30-18:30"
+379007183	Königlich privilegierte Roland-Apotheke		53.9214545	9.8804425	Bad Bramstedt	Maienbeeck	6	24576	"Mo-Fr 08:00-18:30; Sa 08:00-13:00; Su,PH off"
+467640991	Elbmarsch Apotheke		53.6513523	9.6641039	Heist	Lehmweg	51	25492	"Mo-Fr 08:30-13:00,15:00-18:30; Sa 09:00-12:00"
+498861335	Linden-Apotheke		54.1739293	10.0328377	Bordesholm	Holstenstraße	40	24582	Mo-Tu 08:00-19:00; We 08:00-18:00; Th-Fr 08:00-19:00; Sa 08:00-13:00
+503424252	Eichen Apotheke Grube		54.2234201	11.0365652	Grube	Bürgermeister-Höppner-Straße	4	23749	"Mo-Fr 08:00-12:30,15:00-18:00; We,Sa 08:00-12:30; PH,Su off"
+532378260	Baltic-Apotheke		54.1068980	10.8133934	Neustadt in Holstein	Königstraße	2	23730	Mo-Fr 08:00-18:30; Sa 08:30-13:00
+532378270	Seestern Apotheke Neustadt		54.1069957	10.8128658	Neustadt in Holstein	Brückstraße	11	23730	
+572326247	Elch Apotheke		54.4112539	9.5094647	Kropp	Hauptstraße	1	24848	
+612763790	Markt Apotheke		54.1074955	10.8151439	Neustadt in Holstein	Am Markt	5	23730	Mo-Fr 08:00-18:30; Sa 08:30-13:00
+618167513	Hochbrücken-Apotheke		54.2885601	9.6895943	Osterrönfeld	Dorfstraße	9	24783	"Mo-Tu,Th 08:00-19:00; We,Fr 08:00-18:00; Sa 08:00-13:00"
+663937148	Krokodil-Apotheke		53.9758392	9.9672006	Großenaspe	Hauptstraße	18a	24623	"Mo-Fr 08:00-12:30,14:30-18:00; We 08:00-12:30,15:00-18:00; Sa 08:00-12:30"
+762379627			53.4364984	10.3688703					
+781596549	Trave-Apotheke		53.9552508	10.3152946					
+804570089	Gorch-Fock-Apotheke		54.3541721	10.1156817	Kiel	Steenbeker Weg	33	24106	Mo-Fr 08:00-18:30; Sa 09:00-13:00
+860986368	Ostsee Apotheke		54.3420400	10.1395708	Kiel	Feldstraße	111	24105	"Mo-Fr 08:30-18:00, Sa 09:00-13:00"
+911546774	Land-Apotheke Todenbüttel		54.1296418	9.5571498	Todenbüttel	Hauptstraße	50	24819	
+963758410	Löwen-Apotheke Boostedt		54.0072403	10.0288037	Boostedt	Zur Ziegelei	1	24598	
+1025103764	Apotheke am Holmberg		54.8052107	9.3884968	Harrislee	Holmberg	25	24955	"Mo-Tu,Th 08:00-13:00,14:30-18:30; We :8:00-13:00,14:30-18:00; Fr 08:00-18:00, Sa off"
+1039619888	Gorch-Fock-Apotheke		54.4128779	9.4952378	Kropp	Gorch-Fock-Straße	21	24848	"Mo-Fr 08:00-18:30; Sa 09:00-12:00; Su,PH off"
