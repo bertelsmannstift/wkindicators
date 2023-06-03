@@ -61,3 +61,11 @@ Ausblick: Berechnung des Indikators "durchschnittliche Entfernung zur nächsten 
 ## Mögliche Challenges
 - Matching Issues
 - Datenqualität und -Vollständigkeit
+
+
+## Mögliche weitere Analysen
+- Um zu schauen, welche Regionen besonders betroffen von "Apothekensterben" sind, haben wir einen Datensatz mit geschlossenen Apotheken aus OSM gezogen. 
+- Files: disused_pharmacy.csv (data) und disused_pharmacy.txt (benutzte query)
+- Es sind ca. 1000 Apotheken Deutschlandweit im Datensatz. 
+- Als Einschränkung wurde direkt angemerkt, dass die Datenqualität schwierig ist, weil es nicht klar ist, wann die Apotheke geschlossen wurde (teilw. wohl historische Apotheken, teilw. kürzlich geschlossene, teilw. sind sie nur umgezogen). 
+- Analyse tbd
