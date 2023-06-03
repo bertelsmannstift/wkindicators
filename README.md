@@ -71,6 +71,15 @@ Ausblick: Berechnung des Indikators "durchschnittliche Entfernung zur nächsten 
 - Matching Issues
 - Datenqualität und -Vollständigkeit
 
+## Network Analyse
+Berechnung der kürzesten Laufdistanz von einer Adresse bis zu einer Apotheke. Möglicher Indikator für Kommunen: Mittelwert der Laufdistanzen in einer Gemeinde oder Postleitzahl
+Benötigte Daten:
+- Straßennetz als Shapefile (Quelle: Openstreetmap)
+- Punktkoordinaten von Apotheken (Quelle: Openstreetmap)
+- Punktkoordinaten von Adressen (Quelle: Amtliche Liegenschaftskarten, INSPIRE)
+R packages:
+- sf und sfnetworks
+- Vignettte für "sfnetwork": https://cran.r-project.org/web/packages/sfnetworks/vignettes/sfn04_routing.html
 
 ## Mögliche weitere Analysen
 - Um zu schauen, welche Regionen besonders betroffen von "Apothekensterben" sind, haben wir einen Datensatz mit geschlossenen Apotheken aus OSM gezogen. 
@@ -78,3 +87,4 @@ Ausblick: Berechnung des Indikators "durchschnittliche Entfernung zur nächsten 
 - Es sind ca. 1000 Apotheken Deutschlandweit im Datensatz. 
 - Als Einschränkung wurde direkt angemerkt, dass die Datenqualität schwierig ist, weil es nicht klar ist, wann die Apotheke geschlossen wurde (teilw. wohl historische Apotheken, teilw. kürzlich geschlossene, teilw. sind sie nur umgezogen). 
 - Analyse tbd
+
