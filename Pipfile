@@ -7,6 +7,8 @@ name = "pypi"
 geopandas = "*"
 pandas = "*"
 ipykernel = "*"
+matplotlib = "*"
+shapely = "*"
 
 [dev-packages]
 
