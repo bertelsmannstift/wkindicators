@@ -95,9 +95,20 @@ area["ISO3166-1"="DE"]->.searchArea;
 out center;
 
 ## Mögliche weitere Analysen
+
+### Apothekensterben
 - Um zu schauen, welche Regionen besonders betroffen von "Apothekensterben" sind, haben wir einen Datensatz mit geschlossenen Apotheken aus OSM gezogen. 
 - Files: disused_pharmacy.csv (data) und disused_pharmacy.txt (benutzte query)
 - Es sind ca. 1000 Apotheken Deutschlandweit im Datensatz. 
 - Als Einschränkung wurde direkt angemerkt, dass die Datenqualität schwierig ist, weil es nicht klar ist, wann die Apotheke geschlossen wurde (teilw. wohl historische Apotheken, teilw. kürzlich geschlossene, teilw. sind sie nur umgezogen). 
 - Analyse tbd
+
+
+### Distanz zur nächsten Apotheke basierend auf Bevölkerungs-Raster
+- Ziel: einen weiteren Indikator schaffen für den Zugang zu Apotheken, der die Laufdistanz der Bevölkerung zur nächstgelegenen Apotheke abbildet. 
+- Idee: Wir berechnen pro Kommune die Distanz verschiedener Punkte innerhalb der Kommunen (welche einen Wohnsitz-Proxy darstellen) zur nächstgelegenen Apotheke. Die Distanz-Berechnung könnte Luftlinie sein oder alternativ über eine Straßennetz-Distanz-Berechnung (Netzwerkanalyse mit sfnetworks). 
+- Vorgehen: 
+- (1) Daten vom Mikrozensus über Bevölkerungsdichte: Der Mikrozensus 2011 stellt Daten als CSV zur Verfügung, in denen Deutschland in ein Grid mit 100m Kantenlänge eingeteilt wird und pro Gridzelle die Anzahl der dort lebenden Personen angegeben wird (https://www.zensus2011.de/DE/Home/Aktuelles/DemografischeGrunddaten.html > Download-Tabelle "Bevölkerung im 100 Meter-Gitter" im CSV-Format (zip, 105MB, nicht barrierefrei), Achtung die CSV hat 1,3 GB). 
+- (2) Für jede Gridzelle in der mind. 1 Person lebt, nehmen wir den Centerpoint (berechnet aus den 4 Eckpunkten) und berechnen davon die Distanz zur nächstgelegenen Apotheke. 
+- (3) Damit haben wir für jede Gridzelle folgende Informationen: In welcher Kommune liegt die Zelle, wie viele Personen liegen darin, was ist die Distanz zur nächsten Apotheke. Daraus berechnen wir für jede Kommune eine gewichtete durchschnittliche Distanz der dort lebenden Personen zu der für sie nächstgelegenen Apotheke.
 
