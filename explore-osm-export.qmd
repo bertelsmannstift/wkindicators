@@ -1,0 +1,27 @@
+---
+title: "explore-osm-export"
+---
+
+## Explore
+
+-   We are working with a CSV that was generated through a query of the OSM data
+
+-   General:
+
+    -   How many pharmacies are in the dataset? By Bundesland?
+
+-   Data Quality: What are potential problems?
+
+-   Data Availability:
+
+    -   Name: Does the entry have a name? -\> if not, filter out
+
+    -   Opening Hours: How many entries have a opening hours?
+
+## Cleaning
+
+-   Opening Hours: Extract Number of days per week and number of hours per week from opening hours string
+
+## Exporting
+
+-   how do we make the data available to the data portal?
