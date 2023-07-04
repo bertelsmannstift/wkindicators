@@ -1,5 +1,12 @@
 # Wegweiser Kommune: Neue Indikatoren auf Basis von Mapping Data
 
+## To-Do
+
+- [ ] Projektinfrastruktur & Modularisierung (Gabriel)
+- [ ] Funktionen für OSM-Datenabfrage und -Matching (Tim, Nico, Gabriel, Nina):
+      - [ ] Nina ready-for-review: wkindicators.pynb
+- [ ] Quality Assurance Datei (Nina)
+      
 ## Challenge
 Name des Teams: Daten für die Gesellschaft
 
