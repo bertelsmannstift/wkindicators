@@ -3,10 +3,10 @@
 ## To-Do
 
 - [ ] Projektinfrastruktur & Modularisierung (Gabriel)
-- [ ] Funktionen für OSM-Datenabfrage und -Matching (Tim, Nico, Gabriel, Nina):
-      - [ ] Nina ready-for-review: wkindicators.pynb
+- [ ] Funktionen für OSM-Datenabfrage und -Matching (Tim, Nico, Gabriel, Nina): <br>
+- [X] Nina: wkindicators.pynb (ready-for-review)
 - [ ] Data Enrichment (Länge, ggf. Breite) mit Handelsregisterdaten: [Daten als SQLite](https://daten.offeneregister.de/openregister.db.gz) (Nina, open for coop)
-- [ ] Quality Assurance Datei (Nina)
+- [X] Quality Assurance Datei (Nina)
       
 ## Challenge
 Name des Teams: Daten für die Gesellschaft
