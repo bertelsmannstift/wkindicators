@@ -2,17 +2,18 @@
 
 ## To-Do
 
-- [ ] Projektinfrastruktur & Modularisierung (Gabriel)
-      <br>
-- [ ] Funktionen für OSM-Datenabfrage und -Matching (Tim, Nina):
+**Projektinfrastruktur & Modularisierung** (Gabriel)
+
+**Funktionen für OSM-Datenabfrage und -Matching** (Tim, Nina):
 - [X] Nina: wkindicators.pynb (ready for review)
 - [X] Tim: (ready for review)
-      <br>
-- [ ] Funktionen für Goope Maps Datenabfrage und -Matching (Gabriel, Nico)
-      <br>
-- [ ] Data Enrichment (Länge, ggf. Breite) mit Handelsregisterdaten: [Daten als SQLite](https://daten.offeneregister.de/openregister.db.gz) (Nina, open for coop)
-      <br>
-- [ ] Quality Assurance (Nina):
+      
+**Funktionen für Goope Maps Datenabfrage und -Matching** (Gabriel, Nico)
+
+**Data Enrichment** 
+- [ ] (Länge, ggf. Breite) mit Handelsregisterdaten: [Daten als SQLite](https://daten.offeneregister.de/openregister.db.gz) (Nina, open for coop)
+
+**Quality Assurance** (Nina)
 - [X] Abgleich Apothekenregister über PLZ
 - [ ] Abgleich Apothekenregister über geompoint
       
