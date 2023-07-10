@@ -4,7 +4,7 @@
 
 - [ ] Projektinfrastruktur & Modularisierung (Gabriel)
 - [ ] Funktionen für OSM-Datenabfrage und -Matching (Tim, Nico, Gabriel, Nina): <br>
-      - [X] Nina ready-for-review: wkindicators.pynb
+- [X] Nina: wkindicators.pynb (ready-for-review)
 - [ ] Data Enrichment (Länge, ggf. Breite) mit Handelsregisterdaten: [Daten als SQLite](https://daten.offeneregister.de/openregister.db.gz) (Nina, open for coop)
 - [X] Quality Assurance Datei (Nina)
       
